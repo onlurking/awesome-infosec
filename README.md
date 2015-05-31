@@ -8,9 +8,12 @@ The goal is to build a categorized community-driven collection of free resources
 Those resources and tools are intended only for cybersecurity professional and educational use in a controlled environment.
 
 ### Index
-* [MOOC's and Academic Courses](#mooc's-and-academic-courses)
+* [MOOC's and Academic Courses](#moocs-and-academic-courses)
 * [Methodologies and Standards](#methodologies-and-standards)
 * [Distros](#distros)
+* [Penetration Testing Laboratories](#penetration-testing-laboratories)
+* [Penetration Testing Challenges](#penetration-testing-challenges)
+* [Reverse Engineering](#reverse-engineering)
 
 MOOC's and Academic Courses
 ---------------------------
