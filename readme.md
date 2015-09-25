@@ -1,5 +1,5 @@
 Awesome Infosec
-===========
+===============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -14,9 +14,21 @@ The goal is to build a categorized community-driven collection of free resources
 
 Those resources and tools are intended only for cybersecurity professional and educational use in a controlled environment.
 
+Table of Contents
+=================
+
+1. [Massive Online Open Courses](#massive-online-open-courses)
+2. [Academic Courses](#academic-courses)
+3. [Laboratories](#laboratories)
+4. [Capture the Flag](#capture-the-flag)
+5. [Open Security Books](#open-security-books)
+6. [Related Awesome Lists](#related-awesome-lists)
+7. [Contributing](#contributing)
+8. [License](#license)
+
 
 Massive Online Open Courses
-==================
+===========================
 
 #### Stanford University - Computer Security
 In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. 
@@ -188,7 +200,7 @@ Rootkits are a class of malware which are dedicated to hiding the attackerâ€�
 Windows is designed to be compatible with a lot of devices which is why there are a lot of layers in the keystroke handling. The more layers a system has, the more probable it could be compromised by bad guys. There are more than 30 methods for capturing keystrokes from a Windows PC. Methods vary from simple user mode techniques to advanced ones such as IRP hooking. Class currently covers most of the user mode and kernel mode techniques including the undocumented ones which are not described anywhere else but there are still techniques which are not covered in the class such as Raw Input Devices. As for the hardware, we only cover PS/2 keyboards for the moment but documenting USB keyboards is one of the planned topics for near future. 
 
 Academic Courses
-===========
+================
 
 #### Florida State University's - Offensive Computer Security
 The primary incentive for an attacker to exploit a vulnerability, or series of vulnerabilities is to achieve a return on an investment (his/her time usually). This return need not be strictly monetaryâ€”an attacker may be interested in obtaining access to data, identities, or some other commodity that is valuable to them.  The field of penetration testing involves authorized auditing and exploitation of systems to assess actual system security in order to protect against attackers.  This requires thorough knowledge of vulnerabilities and how to exploit them.  Thus, this course provides an introductory but comprehensive coverage of the fundamental methodologies, skills, legal issues, and tools used in white hat penetration testing and secure system administration.
@@ -244,7 +256,7 @@ Mobile devices such as smartphones and tablets are now used for making purchases
  In the exploit development section, students will take over vulnerable systems with simple Python scripts. 
 
 Laboratories
-========
+============
 
 #### Pentester Lab
 There is only one way to properly learn web penetration testing: by getting your hands dirty. We teach how to manually find and exploit vulnerabilities. You will understand the root cause of the problems and the methods that can be used to exploit them. Our exercises are based on common vulnerabilities found in different systems. The issues are not emulated. We provide you real systems with real vulnerabilities.
@@ -333,7 +345,7 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
   * [Binary Auditing](http://www.binary-auditing.com/)
 
 Capture the Flag
-==========
+================
 
 #### Vulnhub
 We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice. 
@@ -359,7 +371,7 @@ Wiki-like CTF write-ups repository, maintained by the community. (2014)
 Wiki-like CTF write-ups repository, maintained by the community. (2013)
 
 Open Security Books
-============
+===================
 
 #### Crypto 101 - lvh
 Comes with everything you need to understand complete systems such as SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication codes, public key encryption, key agreement protocols, and signature algorithms.  Learn how to exploit common cryptographic flaws, armed with nothing but a little time and your favorite programming language. Forge administrator cookies, recover passwords, and even backdoor your own random number generator.
@@ -380,7 +392,7 @@ The focus areas that CTF competitions tend to measure are vulnerability discover
   * [Markdown Source](https://github.com/trailofbits/ctf)
 
 Related Awesome Lists
-==============
+=====================
 
   * [Awesome Pentest](https://github.com/enaqx/awesome-pentest) <br>
  A collection of awesome penetration testing resources, tools and other shiny things.
@@ -410,8 +422,13 @@ A collection of tools developed by other researchers in the Computer Science are
  A curated list of awesome Hacking tutorials, tools and resources.
 
 
+[Contributing](https://github.com/onlurking/awesome-infosec/blob/master/contributing.md)
+=====================
+
+Pull requests and issues with suggestions are welcome!
+
 License
-====
+=======
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
