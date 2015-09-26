@@ -344,6 +344,16 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
 
   * [Binary Auditing](http://www.binary-auditing.com/)
 
+####  NOWASP (Mutillidae)
+OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest. Mutillidae can be installed on Linux and Windows using LAMP, WAMP, and XAMMP. It is pre-installed on SamuraiWTF, Rapid7 Metasploitable-2, and OWASP BWA. The existing version can be updated on these platforms. With dozens of vulns and hints to help the user; this is an easy-to-use web hacking environment designed for labs, security enthusiast, classrooms, CTF, and vulnerability assessment tool targets. Mutillidae has been used in graduate security courses, corporate web sec training courses, and as an "assess the assessor" target for vulnerability assessment software.
+
+  * [OWASP Mutillidae](http://sourceforge.net/projects/mutillidae/files/)
+
+#### Audi-1's SQLi-LABS
+SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQL injections and thereby helps professionals understand how to protect.
+  * [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
+
+
 Capture the Flag
 ================
 
@@ -390,6 +400,14 @@ The focus areas that CTF competitions tend to measure are vulnerability discover
 
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [Markdown Source](https://github.com/trailofbits/ctf)
+
+Documentation
+=============
+
+#### OWASP - Open Web Application Security Project
+The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks.
+
+  * [Open Web Application Security Project]()
 
 Related Awesome Lists
 =====================
