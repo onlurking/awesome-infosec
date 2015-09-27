@@ -61,7 +61,7 @@ This course will introduce you to the foundations of modern cryptography, with a
   * [University of Maryland - Cryptography](https://www.coursera.org/course/cryptography)
 
 #### University of Maryland - Hardware Security
-In this course, we will study security and trust from the hardware perspective. We will start with a short survey of the roles of hardware in security and trust. With all types of dedicated hardware/circuits, known as co-processors, being developed to speed up application specific computations, hardwareâ€™s role changes from the enabler to an enhancer. Nowadays, hardware becomes the enforcer for secure systems because it is used to ensure that only the authenticated user and software can access the processor. However, current hardware design flow does not have security as a key design objective. Consequently, we will conduct several case studies where hardware turns into the weakest link in secure systems.
+This course will introduce you to the foundations of modern cryptography, with an eye toward practical applications. We will learn the importance of carefully defining security; of relying on a set of well-studied “hardness assumptions” (e.g., the hardness of factoring large numbers); and of the possibility of proving security of complicated constructions based on low-level primitives. We will not only cover these ideas in theory, but will also explore their real-world impact. You will learn about cryptographic primitives in wide use today, and see how these can be combined to develop modern protocols for secure communication.
 
   * [University of Maryland - Hardware Security](https://www.coursera.org/course/hardwaresec)
 
@@ -69,13 +69,13 @@ In this course, we will study security and trust from the hardware perspective. 
 Cyber Security jobs are growing three times faster than information technology jobs. However, this rapidly growing and very exciting industry lacks the number of skilled professionals required to handle the jobs. Some common  jobs within Cyber Security include information assurance, security analyst, penetration tester, malware analyst/reverse engineering and Intel. With these types of opportunities available, aspiring or growing Cyber Security professionals should focus on continually increasing their skill set, because the Cyber Security industry never rests, it is continually changing. However, traditionally, Cyber Security classes are the most expensive training classes. As you know, that barrier to entry has been removed.
 
   * [CompTIA    Security+](http://www.cybrary.it/course/comptia-security-plus/) <br>
-  In this class you will gain a stable foundation of Cyber Security and Information Assurance as well as prepare for the security industryâ€™s most sought after entry level certification.
+  In this class you will gain a stable foundation of Cyber Security and Information Assurance as well as prepare for the security industry's most sought after entry level certification.
 
   * [Cryptography](http://www.cybrary.it/course/cryptography/) <br>
   Learn how to secure data communications through the use of cryptographic messaging and practices.
 
   * [Ethical Hacking and Penetration Testing](http://www.cybrary.it/course/ethical-hacking/) <br>
-  Learn the fundamentals of hacking and penetration testing. Think like a hacker, so that you can stop them from intruding into your systems. This class will help prepare you for the industries most sought after certification, EC-Councilâ€™s CEH.
+  Learn the fundamentals of hacking and penetration testing. Think like a hacker, so that you can stop them from intruding into your systems. This class will help prepare you for the industries most sought after certification, EC-Council's CEH.
 
   * [Computer and Hacking Forensics](http://www.cybrary.it/course/computer-hacking-forensics-analyst/) <br>
   In order to catch cyber criminals, you have to learn how to retrace their steps and correctly acquire and document the evidence. Also prepare for the industry leading CHFI certification from the EC-Council.
@@ -96,7 +96,7 @@ Cyber Security jobs are growing three times faster than information technology j
   Take a look inside the form, function and flow of a highly skilled social engineering cyber-attack. Learn to protect the human element.
 
   * [Python for Security Professionals](http://www.cybrary.it/course/python-security-professionals/) <br>
-  Learn the commands and functions that every aspiring cyber security professional must know from Python. This isnâ€™t a full programming course, but rather a course designed for non-coders who are developing their career in security.
+  Learn the commands and functions that every aspiring cyber security professional must know from Python. This isn't a full programming course, but rather a course designed for non-coders who are developing their career in security.
 
   * [Metasploit](http://www.cybrary.it/course/metasploit/) <br>
   An in-depth look inside the Metasploit Framework intended to show you how to use it to its full potential.
@@ -108,7 +108,7 @@ Cyber Security jobs are growing three times faster than information technology j
   This class is for advanced Cyber Security professionals. You will learn in depth, hands-on, advanced hacking techniques to help you target and penetrate almost any highly secured environment.
 
 #### SANS Cyber Aces
-SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. SANS goal in making these courses available as open courseware is to help grow the talent pool and accelerate the rate at which skilled cyber professionals can enter the information security industry â€“ filling mission critical jobs currently going unfilled.
+SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. SANS goal in making these courses available as open courseware is to help grow the talent pool and accelerate the rate at which skilled cyber professionals can enter the information security industry filling mission critical jobs currently going unfilled.
 
   * [SANS Cyber Aces Online Courses](http://www.cyberaces.org/courses/)
   * [SANS Cyber Aces Online Tutorials](https://tutorials.cyberaces.org/tutorials)
@@ -167,7 +167,7 @@ This course is designed to help developers bring a secure coding mindset into ty
 This course shows how smart cards are different compared to other type of cards. It is explained how smart cards can be used to realize confidentiality and integrity of information. Insight is given into the structure and operation of a smart card, the functionality of a smart card operating system and commonly used security mechanisms. In addition, an overview is given of developments in the field of chips (8, 16 and 32 bit architectures, co-processors), operating systems, virtual machines (Java Card, MULTOS), compatibility (PC / SC, Open Card, EMV) security evaluation (ITSEC, Common Criteria) and physical and logical attack methods (probing, SEM, FIB, DFA, DPA). Biometric identification and authentication using smart cards is dealt along with a summary of developments and (im) possibilities.
 
   * [The Life of Binaries](http://opensecuritytraining.info/LifeOfBinaries.html) <br>
-Along the way we discuss the relevance of security at different stages of a binaryâ€™s life, from the tricks that can be played by a malicious compiler, to how viruses really work, to the way which malware â€œpackersâ€ duplicate OS process execution functionality, to the benefit of a security-enhanced OS loader which implements address space layout randomization (ASLR).
+Along the way we discuss the relevance of security at different stages of a binary's life, from the tricks that can be played by a malicious compiler, to how viruses really work, to the way which malware â€œpackersâ€ duplicate OS process execution functionality, to the benefit of a security-enhanced OS loader which implements address space layout randomization (ASLR).
 
   * [Understanding Cryptology: Core Concepts](http://opensecuritytraining.info/CryptoCore.html) <br>
 This is an introduction to cryptology with a focus on applied cryptology. It was designed to be accessible to a wide audience, and therefore does not include a rigorous mathematical foundation (this will be covered in later classes).
@@ -194,7 +194,7 @@ Throughout the history of invention curious minds have sought to understand the 
 This class picks up where the Introduction to Reverse Engineering Software course left off, exploring how static reverse engineering techniques can be used to understand what a piece of malware does and how it can be removed.
 
   * [Rootkits: What they are, and how to find them](http://opensecuritytraining.info/Rootkits.html) <br>
-Rootkits are a class of malware which are dedicated to hiding the attackerâ€™s presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them. This will be a very hands-on class where we talk about specific techniques which rootkits use, and then do labs where we show how a proof of concept rootkit is able to hide things from a defender. 
+Rootkits are a class of malware which are dedicated to hiding the attacker's presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them. This will be a very hands-on class where we talk about specific techniques which rootkits use, and then do labs where we show how a proof of concept rootkit is able to hide things from a defender. 
 
   * [The Adventures of a Keystroke: An in-depth look into keylogging on Windows](http://opensecuritytraining.info/Keylogging.html) <br>
 Windows is designed to be compatible with a lot of devices which is why there are a lot of layers in the keystroke handling. The more layers a system has, the more probable it could be compromised by bad guys. There are more than 30 methods for capturing keystrokes from a Windows PC. Methods vary from simple user mode techniques to advanced ones such as IRP hooking. Class currently covers most of the user mode and kernel mode techniques including the undocumented ones which are not described anywhere else but there are still techniques which are not covered in the class such as Raw Input Devices. As for the hardware, we only cover PS/2 keyboards for the moment but documenting USB keyboards is one of the planned topics for near future. 
@@ -339,7 +339,7 @@ People learn from mistakes. In security education, we study mistakes that lead t
 
   * [All SEED Laboratories](http://www.cis.syr.edu/~wedu/seed/all_labs.html) <br>
 
-#### Dr. Thorsten Schneiderâ€™s Binary Auditing
+#### Dr. Thorsten Schneider's Binary Auditing
 Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more inner file understanding than ever. Learn how to find and analyse software vulnerability. Dig inside Buffer Overflows and learn how exploits can be prevented. Start to analyse your first viruses and malware the safe way. Learn about simple tricks and how viruses look like using real life examples.
 
   * [Binary Auditing](http://www.binary-auditing.com/)
@@ -396,7 +396,7 @@ Comes with everything you need to understand complete systems such as SSL/TLS: b
   * [LaTeX Source](https://github.com/dennis714/RE-for-beginners)
 
 #### CTF Field Guide - Trail of Bits
-The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.. Whether you want to succeed at CTF, or as a computer security professional, youâ€™ll need to become an expert in at least one of these disciplines. Ideally in all of them.
+The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.. Whether you want to succeed at CTF, or as a computer security professional, you'll need to become an expert in at least one of these disciplines. Ideally in all of them.
 
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [Markdown Source](https://github.com/trailofbits/ctf)
