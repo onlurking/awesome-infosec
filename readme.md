@@ -118,7 +118,7 @@ SANS Cyber Aces Online makes available, free and online, selected courses from t
   * [Android Forensics & Security Testing](http://opensecuritytraining.info/AndroidForensics.html) <br>
 This course will cover the most common issues facing mobile devices, and general tips for securing mobile applications. Upon completion of general mobile security overview, the course will delve into a proven practice in Mobile Device Forensics and Mobile Application Penetration Testing for Android devices. Over the two-day course, students will get hands-on time with open-source and commercial forensics tools, setup and explore reverse engineering development environments, and experience the process with which professional mobile security engineers have successfully applied to several projects. Areas covered include, identifying application vulnerabilities, code analysis, memory & file system analysis, and insecure storage of sensitive data.
 
-  * [Certified Information Systems Security Professional (CISSP)Â® Common Body of Knowledge (CBK)Â® Review](http://opensecuritytraining.info/CISSP-Main.html) <br>
+  * [Certified Information Systems Security Professional (CISSP)® Common Body of Knowledge (CBK)® Review](http://opensecuritytraining.info/CISSP-Main.html) <br>
 The CISSP CBK Review course is uniquely designed for federal agency information assurance (IA) professionals in meeting NSTISSI-4011, National Training Standard for Information Systems Security Professionals, as required by DoD 8570.01-M, Information Assurance Workforce Improvement Program.
 
   * [Flow Analysis & Network Hunting](http://opensecuritytraining.info/Flow.html) <br>
