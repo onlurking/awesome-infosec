@@ -386,11 +386,16 @@ Open Security Books
 #### Crypto 101 - lvh
 Comes with everything you need to understand complete systems such as SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication codes, public key encryption, key agreement protocols, and signature algorithms.  Learn how to exploit common cryptographic flaws, armed with nothing but a little time and your favorite programming language. Forge administrator cookies, recover passwords, and even backdoor your own random number generator.
 
-  * [ Crypto101](https://www.crypto101.io/)
+  * [Crypto101](https://www.crypto101.io/)
   * [LaTeX Source](https://github.com/crypto101/book)
 
+#### A Graduate Course in Applied Cryptography - Dan Boneh & Victor Shoup
+This book is about constructing practical cruptosystems for which we can argue security under plausible assumptions. The book covers many constructions for different tasks in cryptography. For each task we define the required goal. To analyze the constructions, we develop a unified framework for doing cryptographic proofs. A reader who masters this framework will capable of applying it to new constructions that may not be covered in this book. We describe common mistakes to avoid as well as attacks on real-world systems that illustratre the importance of rigor in cryptography. We end every chapter with a fund application that applies the ideas in the chapter in some unexpected way.
+
+  * [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
+
 #### Reverse Engineering for Beginners - Dennis Yurichev
- This book offers a primer on reverse-engineering, delving into disassembly code-level reverse engineering and explaining how to decipher assembly language for those beginners who would like to learn to understand x86 (which accounts for almost all executable software in the world) and ARM code created by C/C++ compilers. 
+This book offers a primer on reverse-engineering, delving into disassembly code-level reverse engineering and explaining how to decipher assembly language for those beginners who would like to learn to understand x86 (which accounts for almost all executable software in the world) and ARM code created by C/C++ compilers. 
 
   * [Reverse Engineering for Beginners](http://beginners.re/)
   * [LaTeX Source](https://github.com/dennis714/RE-for-beginners)
@@ -407,7 +412,13 @@ Documentation
 #### OWASP - Open Web Application Security Project
 The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks.
 
-  * [Open Web Application Security Project]()
+  * [Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+
+#### Applied Crypto Hardening - bettercrypto.org
+This guide arose out of the need for system administrators to have an updated, solid, well re-searched and thought-through guide for configuring SSL, PGP,SSH and other cryptographic tools in the post-Snowdenage. Triggered by the NSA leaks in the summer of 2013, many system administrators and IT security officers saw the need to strengthen their encryption settings.This guide is specifically written for these system administrators.
+
+  * [Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
+  * [LaTeX Source](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
 
 Related Awesome Lists
 =====================
