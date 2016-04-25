@@ -22,16 +22,17 @@ Table of Contents
 3. [Laboratories](#laboratories)
 4. [Capture the Flag](#capture-the-flag)
 5. [Open Security Books](#open-security-books)
-6. [Related Awesome Lists](#related-awesome-lists)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [SecurityTube Playlists](#securitytube-playlists)
+7. [Related Awesome Lists](#related-awesome-lists)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 
 Massive Online Open Courses
 ===========================
 
 #### Stanford University - Computer Security
-In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. 
+In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
 
   * [Stanford University - Computer Security](https://www.coursera.org/learn/security)
 
@@ -134,10 +135,10 @@ Intel processors have been a major force in personal computing for more than 30 
 Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation.
 
   * [Introduction to ARM](http://opensecuritytraining.info/IntroARM.html) <br>
-ARM processors are becoming ubiquitous in mobile devices today with RISC processors making a comeback for their applications in low power computing environments. With major operating systems choosing to run on these processors including the latest Windows RT, iOS and Android, understanding the low level operations of these processors can serve to better understand, optimize and debug software stacks running on them. This class builds on the Intro to x86 class and tries to provide parallels and differences between the two processor architectures wherever possible while focusing on the ARM instruction set, some of the ARM processor features, and how software works and runs on the ARM processor. 
+ARM processors are becoming ubiquitous in mobile devices today with RISC processors making a comeback for their applications in low power computing environments. With major operating systems choosing to run on these processors including the latest Windows RT, iOS and Android, understanding the low level operations of these processors can serve to better understand, optimize and debug software stacks running on them. This class builds on the Intro to x86 class and tries to provide parallels and differences between the two processor architectures wherever possible while focusing on the ARM instruction set, some of the ARM processor features, and how software works and runs on the ARM processor.
 
   * [Introduction to Cellular Security](http://opensecuritytraining.info/IntroCellSec.html) <br>
-This course is intended to demonstrate the core concepts of cellular network security. Although the course discusses GSM, UMTS, and LTE - it is heavily focused on LTE. The course first introduces important cellular concepts and then follows the evolution of GSM to LTE. 
+This course is intended to demonstrate the core concepts of cellular network security. Although the course discusses GSM, UMTS, and LTE - it is heavily focused on LTE. The course first introduces important cellular concepts and then follows the evolution of GSM to LTE.
 
   * [Introduction to Network Forensics](http://opensecuritytraining.info/NetworkForensics.html) <br>
 This is a mainly lecture based class giving an introduction to common network monitoring and forensic techniques.  This class is meant to be accompanied by lab exercises to demonstrate certain tools and technologies, but the lab exercises are not absolutely necessary to convey the operating concepts.
@@ -167,7 +168,7 @@ This course is designed to help developers bring a secure coding mindset into ty
 This course shows how smart cards are different compared to other type of cards. It is explained how smart cards can be used to realize confidentiality and integrity of information. Insight is given into the structure and operation of a smart card, the functionality of a smart card operating system and commonly used security mechanisms. In addition, an overview is given of developments in the field of chips (8, 16 and 32 bit architectures, co-processors), operating systems, virtual machines (Java Card, MULTOS), compatibility (PC / SC, Open Card, EMV) security evaluation (ITSEC, Common Criteria) and physical and logical attack methods (probing, SEM, FIB, DFA, DPA). Biometric identification and authentication using smart cards is dealt along with a summary of developments and (im) possibilities.
 
   * [The Life of Binaries](http://opensecuritytraining.info/LifeOfBinaries.html) <br>
-Along the way we discuss the relevance of security at different stages of a binary's life, from the tricks that can be played by a malicious compiler, to how viruses really work, to the way which malware "packers" duplicate OS process execution functionality, to the benefit of a security-enhanced OS loader which implements address space layout randomization (ASLR).
+Along the way we discuss the relevance of security at different stages of a binary's life, from the tricks that can be played by a malicious compiler, to how viruses really work, to the way which malware "packers" duplicate OS process execution functionality, to the benefit of a security-enhanced OS loader which implements address space layout randomization (ASLR).
 
   * [Understanding Cryptology: Core Concepts](http://opensecuritytraining.info/CryptoCore.html) <br>
 This is an introduction to cryptology with a focus on applied cryptology. It was designed to be accessible to a wide audience, and therefore does not include a rigorous mathematical foundation (this will be covered in later classes).
@@ -176,7 +177,7 @@ This is an introduction to cryptology with a focus on applied cryptology. It was
 A class for those who want to stop learning about building cryptographic systems and want to attack them. This course is a mixture of lecture designed to introduce students to a variety of code-breaking techniques and python labs to solidify those concepts. Unlike its sister class, Core Concepts, math is necessary for this topic. Don't have a math degree? A basic understanding of algebra is sufficient - the mathematical principles that are necessary for understanding are included in the lecture. Knowledge of programming is also necessary, and knowledge of python is very helpful.
 
   * [Introduction to Software Exploits (Exploits 1)](http://opensecuritytraining.info/Exploits1.html) <br>
-Software vulnerabilities are flaws in program logic that can be leveraged by an attacker to execute arbitrary code on a target system. This class will cover both the identification of software vulnerabilities and the techniques attackers use to exploit them. In addition, current techniques that attempt to remediate the threat of software vulnerability exploitation will be discussed. 
+Software vulnerabilities are flaws in program logic that can be leveraged by an attacker to execute arbitrary code on a target system. This class will cover both the identification of software vulnerabilities and the techniques attackers use to exploit them. In addition, current techniques that attempt to remediate the threat of software vulnerability exploitation will be discussed.
 
   * [Exploits 2: Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html) <br>
 This course covers the exploitation of stack corruption vulnerabilities in the Windows environment. Stack overflows are programming flaws that often times allow an attacker to execute arbitrary code in the context of a vulnerable program. There are many nuances involved with exploiting these vulnerabilities in Windows. Window's exploit mitigations such as DEP, ASLR, SafeSEH, and SEHOP, makes leveraging these programming bugs more difficult, but not impossible. The course highlights the features and weaknesses of many the exploit mitigation techniques deployed in Windows operating systems. Also covered are labs that describe the process of finding bugs in Windows applications with mutation based fuzzing, and then developing exploits that target those bugs.
@@ -185,7 +186,7 @@ This course covers the exploitation of stack corruption vulnerabilities in the W
 Building upon the Introductory Intel x86 class, this class goes into more depth on topics already learned, and introduces more advanced topics that dive deeper into how Intel-based systems work. Example applications include showing how hardware and memory mechanisms are used for software exploits, anti-debug techniques, rootkit hiding, and direct hardware access for keystroke logging.
 
   * [Advanced x86: Virtualization with Intel VT-x](http://opensecuritytraining.info/AdvancedX86-VTX.html) <br>
-The purpose of this course is to provide a hands on introduction to Intel hardware support for virtualization. The first part will motivate the challenges of virtualization in the absence of dedicated hardware. This is followed by a deep dive on the Intel virtualization "API" and labs to begin implementing a blue pill / hyperjacking attack made famous by researchers like Joanna Rutkowska and Dino Dai Zovi et al. Finally a discussion of virtualization detection techniques. 
+The purpose of this course is to provide a hands on introduction to Intel hardware support for virtualization. The first part will motivate the challenges of virtualization in the absence of dedicated hardware. This is followed by a deep dive on the Intel virtualization "API" and labs to begin implementing a blue pill / hyperjacking attack made famous by researchers like Joanna Rutkowska and Dino Dai Zovi et al. Finally a discussion of virtualization detection techniques.
 
   * [Introduction to Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) <br>
 Throughout the history of invention curious minds have sought to understand the inner workings of their gadgets. Whether investigating a broken watch, or improving an engine, these people have broken down their goods into their elemental parts to understand how they work. This is Reverse Engineering (RE), and it is done every day from recreating outdated and incompatible software, understanding malicious code, or exploiting weaknesses in software.
@@ -194,27 +195,10 @@ Throughout the history of invention curious minds have sought to understand the 
 This class picks up where the Introduction to Reverse Engineering Software course left off, exploring how static reverse engineering techniques can be used to understand what a piece of malware does and how it can be removed.
 
   * [Rootkits: What they are, and how to find them](http://opensecuritytraining.info/Rootkits.html) <br>
-Rootkits are a class of malware which are dedicated to hiding the attacker's presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them. This will be a very hands-on class where we talk about specific techniques which rootkits use, and then do labs where we show how a proof of concept rootkit is able to hide things from a defender. 
+Rootkits are a class of malware which are dedicated to hiding the attacker's presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them. This will be a very hands-on class where we talk about specific techniques which rootkits use, and then do labs where we show how a proof of concept rootkit is able to hide things from a defender.
 
   * [The Adventures of a Keystroke: An in-depth look into keylogging on Windows](http://opensecuritytraining.info/Keylogging.html) <br>
-Windows is designed to be compatible with a lot of devices which is why there are a lot of layers in the keystroke handling. The more layers a system has, the more probable it could be compromised by bad guys. There are more than 30 methods for capturing keystrokes from a Windows PC. Methods vary from simple user mode techniques to advanced ones such as IRP hooking. Class currently covers most of the user mode and kernel mode techniques including the undocumented ones which are not described anywhere else but there are still techniques which are not covered in the class such as Raw Input Devices. As for the hardware, we only cover PS/2 keyboards for the moment but documenting USB keyboards is one of the planned topics for near future. 
-
-#### SecurityTube
-
-Security Tube hosts a large range of video tutorials on IT security including penetration testing , exploit development and reverse engineering.
-
-* [SecurityTube Metasploit Framework Expert (SMFE)](http://www.securitytube.net/groups?operation=view&groupId=10) <br>
-This video series covers basics of Metasploit Framework. We will look at why to use metasploit then go on to how to exploit vulnerbilities with help of metasploit and post exploitation techniques with meterpreter.
-
-* [Wireless LAN Security and Penetration Testing Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=9) <br>
-This video series will take you through a journey in wireless LAN (in)security and penetration testing. We will start from the very basics of how WLANs work, graduate to packet sniffing and injection attacks, move on to audit infrastructure vulnerabilities, learn to break into WLAN clients and finally look at advanced hybrid attacks involving wireless and applications.
-
-* [Exploit Research Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=7) <br>
-In this video series, we will learn how to program exploits for various vulnerabilities published online. We will also look at how to use various tools and techniques to find Zero Day vulnerabilities in both open and closed source software.
-
-* [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) <br>
-In this video series, we will understand the basic of buffer overflows and understand how to exploit them on linux based systems. In later videos, we will also look at how to apply the same principles to Windows and other selected operating systems.
-
+Windows is designed to be compatible with a lot of devices which is why there are a lot of layers in the keystroke handling. The more layers a system has, the more probable it could be compromised by bad guys. There are more than 30 methods for capturing keystrokes from a Windows PC. Methods vary from simple user mode techniques to advanced ones such as IRP hooking. Class currently covers most of the user mode and kernel mode techniques including the undocumented ones which are not described anywhere else but there are still techniques which are not covered in the class such as Raw Input Devices. As for the hardware, we only cover PS/2 keyboards for the moment but documenting USB keyboards is one of the planned topics for near future.
 
 Academic Courses
 ================
@@ -270,7 +254,7 @@ Learn how to find vulnerabilities and exploit them to gain control of target sys
 Mobile devices such as smartphones and tablets are now used for making purchases, emails, social networking, and many other risky activities. These devices run specialized operating systems have many security problems. This class will cover how mobile operating systems and apps work, how to find and exploit vulnerabilities in them, and how to defend them. Topics will include phone call, voicemail, and SMS intrusion, jailbreaking, rooting, NFC attacks, malware, browser exploitation, and application vulnerabilities. Hands-on projects will include as many of these activities as are practical and legal.
 
   * [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml) <br>
- In the exploit development section, students will take over vulnerable systems with simple Python scripts. 
+ In the exploit development section, students will take over vulnerable systems with simple Python scripts.
 
 Laboratories
 ============
@@ -315,7 +299,7 @@ This exercice explains the interactions between Tomcat and Apache, then it will 
 This exercise covers the exploitation of a session injection in the Play framework. This issue can be used to tamper with the content of the session while bypassing the signing mechanism.
 
   * [Play XML Entities](https://pentesterlab.com/exercises/play_xxe) <br>
-This exercise covers the exploitation of a XML entities in the Play framework. 
+This exercise covers the exploitation of a XML entities in the Play framework.
 
   * [CVE-2007-1860: mod_jk double-decoding](https://pentesterlab.com/exercises/cve-2007-1860) <br>
 This exercise covers the exploitation of CVE-2007-1860. This vulnerability allows an attacker to gain access to unaccessible pages using crafted requests. This is a common trick that a lot of testers miss.
@@ -337,7 +321,7 @@ This exercise covers the exploitation of a Bash vulnerability through a CGI.
 
 #### Syracuse University's SEED
 ##### Developing Instructional Laboratories for Computer SEcurity EDucation
-People learn from mistakes. In security education, we study mistakes that lead to software vulnerabilities. Studying mistakes from the past not only help students understand why systems are vulnerable, why a "seemly-benign" mistake can turn into a disaster, and why many security mechanisms are needed. More importantly, it also helps students learn the common patterns of vulnerabilities, so they can avoid making similar mistakes in the future. Moreover, using vulnerabilities as case studies, students can learn the principles of secure design, secure programming, and security testing. 
+People learn from mistakes. In security education, we study mistakes that lead to software vulnerabilities. Studying mistakes from the past not only help students understand why systems are vulnerable, why a "seemly-benign" mistake can turn into a disaster, and why many security mechanisms are needed. More importantly, it also helps students learn the common patterns of vulnerabilities, so they can avoid making similar mistakes in the future. Moreover, using vulnerabilities as case studies, students can learn the principles of secure design, secure programming, and security testing.
 
   * [Software Security Labs](http://www.cis.syr.edu/~wedu/seed/software_security.html) <br>
     These labs cover some of the most common vulnerabilties in general software. The labs show students how attacks work in exploiting these vulnerabilities.
@@ -346,10 +330,10 @@ People learn from mistakes. In security education, we study mistakes that lead t
     These labs cover topics on network security, ranging from attacks on TCP/IP and DNS to various network security technologies (Firewall, VPN, and IPSec).
 
   * [Web Security Labs](http://www.cis.syr.edu/~wedu/seed/web_security.html) <br>
-    These labs cover some of the most common vulnerabilities in web applications. The labs show students how attacks work in exploiting these vulnerabilities. 
+    These labs cover some of the most common vulnerabilities in web applications. The labs show students how attacks work in exploiting these vulnerabilities.
 
   * [System Security Labs](http://www.cis.syr.edu/~wedu/seed/system_security.html) <br>
-    These labs cover the security mechanisms in operating system, mostly focusing on access control mechanisms in Linux. 
+    These labs cover the security mechanisms in operating system, mostly focusing on access control mechanisms in Linux.
 
   * [Cryptography Labs](http://www.cis.syr.edu/~wedu/seed/cryptography.html) <br>
     These labs cover three essential concepts in cryptography, including secrete-key encryption, one-way hash function, and public-key encryption and PKI.
@@ -375,7 +359,7 @@ Capture the Flag
 ================
 
 #### Vulnhub
-We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice. 
+We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice.
 
 Over the years people have been creating these resources and a lot of time has been put into them, creating 'hidden gems' of training material. However, unless you know of them, its hard to discover them.
 
@@ -387,7 +371,7 @@ When something is added to VulnHub's database it will be indexed as best as poss
 #### CTF Write Ups
   * [CTF Resources](https://ctfs.github.io/resources/) <br>
   A general collection of information, tools, and tips regarding CTFs and similar security competitions.
-  
+
   * [CTF write-ups 2015](https://github.com/ctfs/write-ups-2015) <br>
 Wiki-like CTF write-ups repository, maintained by the community. (2015)
 
@@ -396,6 +380,25 @@ Wiki-like CTF write-ups repository, maintained by the community. (2014)
 
   * [CTF write-ups 2013](https://github.com/ctfs/write-ups-2013) <br>
 Wiki-like CTF write-ups repository, maintained by the community. (2013)
+
+SecurityTube Playlists
+======================
+
+Security Tube hosts a large range of video tutorials on IT security including penetration testing , exploit development and reverse engineering.
+
+* [SecurityTube Metasploit Framework Expert (SMFE)](http://www.securitytube.net/groups?operation=view&groupId=10) <br>
+This video series covers basics of Metasploit Framework. We will look at why to use metasploit then go on to how to exploit vulnerbilities with help of metasploit and post exploitation techniques with meterpreter.
+
+* [Wireless LAN Security and Penetration Testing Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=9) <br>
+This video series will take you through a journey in wireless LAN (in)security and penetration testing. We will start from the very basics of how WLANs work, graduate to packet sniffing and injection attacks, move on to audit infrastructure vulnerabilities, learn to break into WLAN clients and finally look at advanced hybrid attacks involving wireless and applications.
+
+* [Exploit Research Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=7) <br>
+In this video series, we will learn how to program exploits for various vulnerabilities published online. We will also look at how to use various tools and techniques to find Zero Day vulnerabilities in both open and closed source software.
+
+* [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) <br>
+In this video series, we will understand the basic of buffer overflows and understand how to exploit them on linux based systems. In later videos, we will also look at how to apply the same principles to Windows and other selected operating systems.
+
+
 
 Open Security Books
 ===================
@@ -412,7 +415,7 @@ This book is about constructing practical cruptosystems for which we can argue s
   * [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
 
 #### Reverse Engineering for Beginners - Dennis Yurichev
-This book offers a primer on reverse-engineering, delving into disassembly code-level reverse engineering and explaining how to decipher assembly language for those beginners who would like to learn to understand x86 (which accounts for almost all executable software in the world) and ARM code created by C/C++ compilers. 
+This book offers a primer on reverse-engineering, delving into disassembly code-level reverse engineering and explaining how to decipher assembly language for those beginners who would like to learn to understand x86 (which accounts for almost all executable software in the world) and ARM code created by C/C++ compilers.
 
   * [Reverse Engineering for Beginners](http://beginners.re/)
   * [LaTeX Source](https://github.com/dennis714/RE-for-beginners)
@@ -448,7 +451,7 @@ A curated list of resources for learning about application security.
 
   * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) <br>
  A curated list of awesome malware analysis tools and resources.
-  
+
   * [Android Security Awesome](https://github.com/ashishb/android-security-awesome) <br>
 A collection of android security related resources.
 
@@ -462,8 +465,8 @@ A curated list of CTF frameworks, libraries, resources and softwares.
 A curated list of awesome honeypots, tools, components and much more.
 
   * [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) <br>
-A collection of tools developed by other researchers in the Computer Science area to process network traces. 
- 
+A collection of tools developed by other researchers in the Computer Science area to process network traces.
+
   * [Awesome Android Security](https://github.com/ashishb/android-security-awesome) <br>
 A collection of android security related resources.
 
