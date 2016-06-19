@@ -108,6 +108,9 @@ Cyber Security jobs are growing three times faster than information technology j
   * [Advanced Penetration Testing by Georgia Weidman](http://www.cybrary.it/course/advanced-penetration-testing/) <br>
   This class is for advanced Cyber Security professionals. You will learn in depth, hands-on, advanced hacking techniques to help you target and penetrate almost any highly secured environment.
 
+  * [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) <br>
+  Advanced hands-on penetration testing for network managers and security professionals. Requires knowledge of networking and familiarity with the Linux platform. This course will prepare for the Offensive Security Certified Professional (OSCP) qualification exam which involves penetrating a vulnerable system within 24 hours.
+
 #### SANS Cyber Aces
 SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. SANS goal in making these courses available as open courseware is to help grow the talent pool and accelerate the rate at which skilled cyber professionals can enter the information security industry filling mission critical jobs currently going unfilled.
 
