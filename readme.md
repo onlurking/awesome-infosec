@@ -467,9 +467,6 @@ A curated list of awesome honeypots, tools, components and much more.
   * [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) <br>
 A collection of tools developed by other researchers in the Computer Science area to process network traces.
 
-  * [Awesome Android Security](https://github.com/ashishb/android-security-awesome) <br>
-A collection of android security related resources.
-
   * [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) <br>
  A curated list of awesome Hacking tutorials, tools and resources.
 
