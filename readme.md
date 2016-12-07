@@ -439,6 +439,12 @@ This guide arose out of the need for system administrators to have an updated, s
 
   * [Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
   * [LaTeX Source](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
+  
+#### PTES - Penetration Testing Execution Standard
+The penetration testing execution standard cover everything related to a penetration test - from the initial communication and reasoning behind a pentest, through the intelligence gathering and threat modeling phases where testers are working behind the scenes in order to get a better understanding of the tested organization, through vulnerability research, exploitation and post exploitation, where the technical security expertise of the testers come to play and combine with the business understanding of the engagement, and finally to the reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it.
+
+  * [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
+
 
 Related Awesome Lists
 =====================
