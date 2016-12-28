@@ -754,6 +754,12 @@ A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)<br>
 This list is for anyone wishing to learn about web application security but do not have a starting point.
 
+- [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)<br>
+A curated list of awesome Security talks.
+
+- [Sec Lists](https://github.com/danielmiessler/SecLists)<br>
+SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+
 [Contributing](https://github.com/onlurking/awesome-infosec/blob/master/contributing.md)
 =====================
 
