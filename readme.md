@@ -733,12 +733,26 @@ A curated list of CTF frameworks, libraries, resources and softwares.
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)<br>
 A curated list of awesome honeypots, tools, components and much more.
 
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)<br>
+A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)<br>
+A curated list of awesome Threat Intelligence resources.
+
 - [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)<br>
 A collection of tools developed by other researchers in the Computer Science area to process network traces.
+
+- [Awesome Forensics](https://github.com/Cugu/awesome-forensics)<br>
+A curated list of awesome forensic analysis tools and resources.
 
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)<br>
  A curated list of awesome Hacking tutorials, tools and resources.
 
+- [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)<br>
+A curated list of resources related to Industrial Control System (ICS) security.
+
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)<br>
+This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 [Contributing](https://github.com/onlurking/awesome-infosec/blob/master/contributing.md)
 =====================
