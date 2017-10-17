@@ -757,6 +757,9 @@ This list is for anyone wishing to learn about web application security but do n
 - [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)<br>
 A curated list of awesome Security talks.
 
+- [Awesome YARA](https://github.com/InQuest/awesome-yara)<br>
+A curated list of awesome YARA rules, tools, and people.
+
 - [Sec Lists](https://github.com/danielmiessler/SecLists)<br>
 SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
