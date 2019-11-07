@@ -328,6 +328,9 @@ Cybrary’s online COBIT certification program offers an opportunity to learn ab
 - [Corporate Cybersecurity Management](https://www.cybrary.it/course/corporate-cybersecurity-management)<br>
 Cyber risk, legal considerations and insurance are often overlooked by businesses and this sets them up for major financial devastation should an incident occur.
 
+## Hopper's Roppers 
+- [Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)<br>
+A free, self-paced curriculum that builds a base of knowledge in computers and networking prior to moving on to the fundamentals of security and defense. The course is intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education.
 
 Laboratories
 ============
