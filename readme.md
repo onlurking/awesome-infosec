@@ -329,8 +329,19 @@ Cybrary’s online COBIT certification program offers an opportunity to learn ab
 Cyber risk, legal considerations and insurance are often overlooked by businesses and this sets them up for major financial devastation should an incident occur.
 
 ## Hopper's Roppers 
-- [Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)<br>
-A free, self-paced curriculum that builds a base of knowledge in computers and networking prior to moving on to the fundamentals of security and defense. The course is intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education.
+Hopper's Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
+
+- [Introduction to Computing Fundamentals](https://hoppersroppers.org/course.html)<br>
+A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None
+
+- [Introduction to Capture the Flags](https://hoppersroppers.github.io/courseCTF.html)<br>
+Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
+
+- [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
+Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
+
+- [Practical Skills Bootcamp](https://hoppersroppers.github.io/bootcamp.html)<br>
+Our free course to introduce students to Linux fundamentals and Python scripting so that they "Learn Just Enough to be Dangerous". Fastest way to get a beginner up to speed on practical knowledge. **Learning Objectives:** Linux, Scripting **Pre-Reqs:** None
 
 Laboratories
 ============
@@ -642,6 +653,11 @@ This site is primarily the work of psifertex since he needed a dump site for a v
 
 - [shell-storm](http://shell-storm.org/repo/CTF)<br>
 The Jonathan Salwan's little corner.
+
+### CTF Courses
+
+- [Hopper's Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
+Free course designed to teach the fundamentals of Forensics, Cryptography, and Web-Exploitation required to be successful in Capture the Flag competitions. At the end of the course, students compete in the picoCTF event with guidance from instructors. 
 
 SecurityTube Playlists
 ======================
