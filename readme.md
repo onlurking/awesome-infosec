@@ -60,6 +60,23 @@ This course will introduce you to the foundations of modern cryptography, with a
 
 - [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardwaresec)
 
+
+#### University of Washington - Introduction to CyberSecurity
+This course will introduce you to the cybersecurity, ideal for learners who are curious about the world of Internet security and who want to be literate in the field. This course will take a ride in to cybersecurity feild for beginners.
+
+- [University of Washington - Introduction to CyberSecurity](https://www.edx.org/course/introduction-to-cybersecurity)
+
+
+#### University of Washington - Finding Your Cybersecurity Career Path
+There are 5-6 major job roles in industry for cybersecurity enthusiast. In This course you will Learn about different career pathways in cybersecurity and complete a self-assessment project to better understand the right path for you.
+
+- [University of Washington - Finding Your Cybersecurity Career Path](https://www.edx.org/course/finding-your-cybersecurity-career-path)
+
+#### University of Washington - Essentials of Cybersecurity
+This course is good for beginner It contains introduction to cybersecurity, The CISO's view, Helps you building cybersecurity toolKit and find your cybersecurity career path. 
+
+- [University of Washington - Essentials of Cybersecurity](https://www.edx.org/professional-certificate/uwashingtonx-essentials-cybersecurity)
+
 Academic Courses
 ================
 
