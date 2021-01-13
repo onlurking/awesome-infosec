@@ -25,10 +25,10 @@ Table of Contents
 Massive Online Open Courses
 ===========================
 
-#### University of california, Irvine - Networking and Security in iOS Applications
-In this class you will learn how to design secure systems/applications and write secure code for IOS. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
+#### Stanford University - Computer Security
+In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
 
-- [University of california, Irvine - Networking and Security in iOS Applications](https://www.coursera.org/learn/security)
+- [Stanford University - Computer Security](https://www.coursera.org/learn/security)
 
 #### Stanford University - Cryptography I
 This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications. The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems. The second half of the course discusses public-key techniques that let two or more parties generate a shared secret key. We will cover the relevant number theory and discuss public-key encryption and basic key-exchange. Throughout the course students will be exposed to many exciting open problems in the field.
