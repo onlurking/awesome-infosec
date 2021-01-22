@@ -149,6 +149,15 @@ Training students for cybersecurity competitions, including CTF events and the [
 - [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)<br>
  In the exploit development section, students will take over vulnerable systems with simple Python scripts.
 
+#### Eurecom - Mobile Systems and Smartphone Security (MOBISEC)
+
+Hands-On course coverings topics such as mobile ecosystem, the design and architecture of mobile operating systems, application analysis, reverse engineering, malware detection, vulnerability assessment, automatic static and dynamic analysis, and exploitation and mitigation techniques.
+Besides the slides for the course, there are also multiple challenges covering mobile app development, reversing and exploitation.
+
+- [MOBISEC2018](https://mobisec.reyammer.io/)
+
+
+
 ## Open Security Training
 OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.
 
