@@ -95,7 +95,7 @@ Hack Night 是基于 NYU Tandon 的渗透测试和漏洞分析课程的资料开
 
 - [CSCI 4974/6974 - Spring '14 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 
-####  City College of San Francisco - Sam Bowne Class
+####  旧金山城市学院 - Sam Bowne 课程
 
 - [CNIT 40: DNS 安全](https://samsclass.info/40/40_F16.shtml)<br>
 DNS 对于所有的互联网用户而言都是至关重要的，它会遇到很多的安全风险，包括网络钓鱼、DNS 劫持、数据包放大、欺骗、中毒等。了解如何配置安全的 DNS 服务器，并通过 DNS 来监控、检测恶意活动。我们还涵盖了 DNSSEC 原则和部署。学生会在 Windows 和 Linux 平台上部署安全 DNS 服务器
@@ -106,32 +106,33 @@ DNS 对于所有的互联网用户而言都是至关重要的，它会遇到很�
 - [CNIT 121 - 计算机取证](https://samsclass.info/121/121_F16.shtml)<br>
 本课程旨在讲授用于调查计算机的取证工具，以及如何恢复数据、证据收集、证据保护等计算机犯罪调查技术。包括用于检索数据的各种文件系统和专用诊断软件的分析。课程内容有一部分可以用于准备工业标准认证考试、Security+ 与计算机调查专家考试
 
-- [CNIT 123 - Ethical Hacking and Network Defense](https://samsclass.info/123/123_S17.shtml)<br>
+- [CNIT 123 - 黑客入侵与网络防御](https://samsclass.info/123/123_S17.shtml)<br>
 本课程学习如何攻击计算机与网络，以及如何使用 Windows 和 Linux 系统来免受此类攻击。课程还包括法律限制和道德准则。课上会综合学习端口扫描、Windows/Linux 系统漏洞利用、缓冲区溢出攻击、SQL 注入、提权、木马和后门等
 
-- [CNIT 124 - Advanced Ethical Hacking](https://samsclass.info/124/124_F15.shtml)<br>
+- [CNIT 124 - 高级黑客入侵](https://samsclass.info/124/124_F15.shtml)<br>
 更高级的计算机安全技术，动手尝试 Google Hacking、复杂的端口扫描、提权、针对网络电话（VoIP）、路由器、防火墙、无线设备、Web 服务器以及拒绝服务的攻击
 
-- [CNIT 126 - Practical Malware Analysis](https://samsclass.info/126/126_S16.shtml)<br>
+- [CNIT 126 - 实践恶意软件分析](https://samsclass.info/126/126_S16.shtml)<br>
 了解如何使用反汇编、调试器、静态分析、动态分析，使用 IDA Pro、OllyDbg 和其他工具来分析恶意软件，包括计算机病毒、木马和 Rootkit
 
-- [CNIT 127 - Exploit Development](https://samsclass.info/127/127_S17.shtml)<br>
+- [CNIT 127 - 漏洞利用开发](https://samsclass.info/127/127_S17.shtml)<br>
 了解如何发现漏洞以及如何利用漏洞获取对目标系统（包括 Windows、Mac、Linux 和 Cisco）的控制权。课程包括了如何编写工具，而不仅仅是利用它们。这是高级渗透测试人员和软件安全专业人员的基本技能
 
-- [CNIT 128 - Hacking Mobile Devices](https://samsclass.info/128/128_S17.shtml)<br>
+- [CNIT 128 - 入侵移动设备](https://samsclass.info/128/128_S17.shtml)<br>
 智能手机和平板电脑等移动设备越来越普及，这些设备运行的操作系统有很多安全问题。本课程将介绍移动操作系统和应用程序的工作方式，以及如何发现与利用其中的漏洞。其中包括电话、语音邮件、短信入侵、越狱、root、NFC 攻击、恶意软件、浏览器利用与应用程序漏洞
 
-- [CNIT 129S: Securing Web Applications](https://samsclass.info/129S/129S_F16.shtml)<br>
+- [CNIT 129S: 增强 Web 应用程序安全](https://samsclass.info/129S/129S_F16.shtml)<br>
 课程讲授攻击者常用的技术，以及如何进行防御。如何保护身份验证、如何保护数据库和后端组件。如何保护用户免受彼此的影响。如果在源代码和程序冲找到常见的漏洞
 
-- [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)<br>
+- [CNIT 140: IT 安全实践](https://samsclass.info/140/140_F16.shtml)<br>
 为信息安全竞赛（CTF 与 [Collegiate Cyberdefense Competition (CCDC)](http://www.nationalccdc.org/)）的培训，这种培训将为专业人员的就业做准备，如果我们的团队在竞争中取得好成绩，竞争对手会认可并尊重，从而提供更多更好的工作机会
 
-- [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)<br>
+- [暴力的 Python 与漏洞利用开发](https://samsclass.info/127/127_WWC_2014.shtml)<br>
 用简单的 Python 脚本来攻陷易受攻击的系统
 
 ## Open Security Training
 OpenSecurityTraining.info 致力于共享计算机安全类培训资料
+
 #### 初学入门
 
 - [Android Forensics & Security Testing](http://opensecuritytraining.info/AndroidForensics.html)<br>
@@ -320,6 +321,9 @@ Cybrary 的在线 COBIT 认证计划提供了一个学习 COBIT 5 框架所有�
 - [Corporate Cybersecurity Management](https://www.cybrary.it/course/corporate-cybersecurity-management)<br>
 网络风险、法律考虑往往被企业所忽视，如果发生事故就会造成重大财务损失
 
+## Hopper's Roppers 
+- [Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)<br>
+免费、自定义进度的课程，在计算机与网络方面介绍基本知识，本课程旨在培养没有先验知识的学生
 
 Laboratories
 ============
@@ -591,6 +595,12 @@ SQLi-LABS 是一个全面测试平台，可以学习和理解 SQL 注入的复�
 
 Capture the Flag
 ================
+
+#### Hack The Box
+
+该平台由不同难度的关卡构成，大部分内容由社区提供，在审核通过后发布。除了关卡还可以选择静态挑战或者高级任务，如 Fortress 或 Endgame
+
+- [Hack The Box link](https://www.hackthebox.eu/)
 
 #### Vulnhub
 VulnHub 尽可能地覆盖那些存在漏洞、可破解、可利用的“东西”，希望提供学习和尝试的内容提供最佳匹配
