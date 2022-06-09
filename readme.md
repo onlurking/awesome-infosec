@@ -60,6 +60,23 @@ This course will introduce you to the foundations of modern cryptography, with a
 
 - [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardwaresec)
 
+
+#### University of Washington - Introduction to CyberSecurity
+This course will introduce you to the cybersecurity, ideal for learners who are curious about the world of Internet security and who want to be literate in the field. This course will take a ride in to cybersecurity feild for beginners.
+
+- [University of Washington - Introduction to CyberSecurity](https://www.edx.org/course/introduction-to-cybersecurity)
+
+
+#### University of Washington - Finding Your Cybersecurity Career Path
+There are 5-6 major job roles in industry for cybersecurity enthusiast. In This course you will Learn about different career pathways in cybersecurity and complete a self-assessment project to better understand the right path for you.
+
+- [University of Washington - Finding Your Cybersecurity Career Path](https://www.edx.org/course/finding-your-cybersecurity-career-path)
+
+#### University of Washington - Essentials of Cybersecurity
+This course is good for beginner It contains introduction to cybersecurity, The CISO's view, Helps you building cybersecurity toolKit and find your cybersecurity career path. 
+
+- [University of Washington - Essentials of Cybersecurity](https://www.edx.org/professional-certificate/uwashingtonx-essentials-cybersecurity)
+
 Academic Courses
 ================
 
@@ -131,6 +148,15 @@ Training students for cybersecurity competitions, including CTF events and the [
 
 - [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)<br>
  In the exploit development section, students will take over vulnerable systems with simple Python scripts.
+
+#### Eurecom - Mobile Systems and Smartphone Security (MOBISEC)
+
+Hands-On course coverings topics such as mobile ecosystem, the design and architecture of mobile operating systems, application analysis, reverse engineering, malware detection, vulnerability assessment, automatic static and dynamic analysis, and exploitation and mitigation techniques.
+Besides the slides for the course, there are also multiple challenges covering mobile app development, reversing and exploitation.
+
+- [MOBISEC2018](https://mobisec.reyammer.io/)
+
+
 
 ## Open Security Training
 OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.
@@ -329,8 +355,19 @@ Cybrary’s online COBIT certification program offers an opportunity to learn ab
 Cyber risk, legal considerations and insurance are often overlooked by businesses and this sets them up for major financial devastation should an incident occur.
 
 ## Hopper's Roppers 
-- [Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)<br>
-A free, self-paced curriculum that builds a base of knowledge in computers and networking prior to moving on to the fundamentals of security and defense. The course is intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education.
+Hopper's Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
+
+- [Introduction to Computing Fundamentals](https://hoppersroppers.org/course.html)<br>
+A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None
+
+- [Introduction to Capture the Flags](https://hoppersroppers.github.io/courseCTF.html)<br>
+Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
+
+- [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
+Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
+
+- [Practical Skills Bootcamp](https://hoppersroppers.github.io/bootcamp.html)<br>
+Our free course to introduce students to Linux fundamentals and Python scripting so that they "Learn Just Enough to be Dangerous". Fastest way to get a beginner up to speed on practical knowledge. **Learning Objectives:** Linux, Scripting **Pre-Reqs:** None
 
 Laboratories
 ============
@@ -642,6 +679,11 @@ This site is primarily the work of psifertex since he needed a dump site for a v
 
 - [shell-storm](http://shell-storm.org/repo/CTF)<br>
 The Jonathan Salwan's little corner.
+
+### CTF Courses
+
+- [Hopper's Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
+Free course designed to teach the fundamentals of Forensics, Cryptography, and Web-Exploitation required to be successful in Capture the Flag competitions. At the end of the course, students compete in the picoCTF event with guidance from instructors. 
 
 SecurityTube Playlists
 ======================
