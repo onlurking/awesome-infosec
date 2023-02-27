@@ -149,14 +149,17 @@ Training students for cybersecurity competitions, including CTF events and the [
 - [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)<br>
  In the exploit development section, students will take over vulnerable systems with simple Python scripts.
 
+####  University of Cincinnati - CS6038/CS5138 Malware Analysis
+
+This class will introduce the CS graduate students to malware concepts, malware analysis, and black-box reverse engineering techniques. The target audience is focused on computer science graduate students or undergraduate seniors without prior cyber security or malware experience. It is intended to introduce the students to types of malware, common attack recipes, some tools, and a wide array of malware analysis techniques.
+- [CS6038/CS5138 Malware Analysis](https://class.malware.re/)
+
 #### Eurecom - Mobile Systems and Smartphone Security (MOBISEC)
 
 Hands-On course coverings topics such as mobile ecosystem, the design and architecture of mobile operating systems, application analysis, reverse engineering, malware detection, vulnerability assessment, automatic static and dynamic analysis, and exploitation and mitigation techniques.
 Besides the slides for the course, there are also multiple challenges covering mobile app development, reversing and exploitation.
 
 - [MOBISEC2018](https://mobisec.reyammer.io/)
-
-
 
 ## Open Security Training
 OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.
