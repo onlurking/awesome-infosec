@@ -738,7 +738,10 @@ Challenges
 
 - [Reverse Engineering Challenges](https://challenges.re/)
 
-- [Matasano Crypto Challenges](http://cryptopals.com/)
+- [Pwnable.kr](http://pwnable.kr) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation.
+
+- [Matasano Crypto Challenges](http://cryptopals.com/) (a.k.a. Cryptopals) is a collection of exercises that demonstrate attacks on real-world crypto by letting you implement and break the cryptoschemes yourself.
+
 
 Documentation
 =============
