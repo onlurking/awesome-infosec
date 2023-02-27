@@ -763,6 +763,12 @@ The penetration testing execution standard cover everything related to a penetra
 
 - [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
 
+#### Whonix Documentation
+This is a course in defensive security.  
+
+- [Whonix Documentation](https://www.whonix.org/wiki/Documentation) 
+
+- [Onion Link](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Documentation)
 
 Related Awesome Lists
 =====================
