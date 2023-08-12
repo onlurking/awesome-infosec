@@ -736,6 +736,12 @@ The focus areas that CTF competitions tend to measure are vulnerability discover
 - [CTF Field Guide](https://trailofbits.github.io/ctf/)
 - [Markdown Source](https://github.com/trailofbits/ctf)
 
+#### Class Central
+
+- [Class Central MOOCs](https://www.classcentral.com/)
+  
+
+
 Challenges
 ==========
 
