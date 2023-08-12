@@ -256,9 +256,16 @@ This class picks up where the [Introduction to Reverse Engineering Software](htt
 Rootkits are a class of malware which are dedicated to hiding the attacker’s presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them.
 
 - [The Adventures of a Keystroke: An in-depth look into keylogging on Windows](http://opensecuritytraining.info/Keylogging.html)<br>
-Keyloggers are one of the most widely used components in malware. Keyboard and mouse are the devices nearly all of the PCs are controlled by, this makes them an important target of malware authors. If someone can record your keystrokes then he can control your whole PC without you noticing.
+Keyloggers are one of the most widely used components in malware. Keyboard and mouse are the devices nearly all of the PCs are controlled by, which makes them an important target of malware authors. If someone can record your keystrokes then he can control your whole PC without you noticing.
 
-
+## SANS Training
+[SANS website](https://www.sans.edu)<br>
+Note on GI bill: 
+One full-time class provides a full BAH rate in person. However, if you do it all on-demand you get the online rate.
+You can only take one class at a time with the GI bill, although you can finish early if you think you are ready to test out, so you do not need to take the full 3-4 months per class
+There are no other current scholarships for vets besides VetSuccess.
+Applications are processed on the 15th of every month, but you need to fill out the full application or else it won’t be reviewed... I.e you can’t just take the assessment
+Grad cert will only take in the 25% so you would have to retake a course if you decide to bring in two classes or take a different course
 
 ## Cybrary - Online Cyber Security Training
 
