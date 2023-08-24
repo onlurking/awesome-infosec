@@ -364,20 +364,17 @@ Cybrary’s online COBIT certification program offers an opportunity to learn ab
 - [Corporate Cybersecurity Management](https://www.cybrary.it/course/corporate-cybersecurity-management)<br>
 Cyber risk, legal considerations and insurance are often overlooked by businesses and this sets them up for major financial devastation should an incident occur.
 
-## Hopper's Roppers 
-Hopper's Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
+## Roppers Academy
+Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
 
 - [Introduction to Computing Fundamentals](https://hoppersroppers.org/course.html)<br>
-A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None
+A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/). **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None 
 
 - [Introduction to Capture the Flags](https://hoppersroppers.github.io/courseCTF.html)<br>
-Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
+Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/). **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
 
 - [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
-Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
-
-- [Practical Skills Bootcamp](https://hoppersroppers.github.io/bootcamp.html)<br>
-Our free course to introduce students to Linux fundamentals and Python scripting so that they "Learn Just Enough to be Dangerous". Fastest way to get a beginner up to speed on practical knowledge. **Learning Objectives:** Linux, Scripting **Pre-Reqs:** None
+Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/). **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
 
 Laboratories
 ============
@@ -692,8 +689,9 @@ The Jonathan Salwan's little corner.
 
 ### CTF Courses
 
-- [Hopper's Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
-Free course designed to teach the fundamentals of Forensics, Cryptography, and Web-Exploitation required to be successful in Capture the Flag competitions. At the end of the course, students compete in the picoCTF event with guidance from instructors. 
+- [Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
+Free course designed to teach the fundamentals of Forensics, Cryptography, and Web-Exploitation required to be successful in Capture the Flag competitions. At the end of the course, students compete in the picoCTF event with guidance from instructors. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/).
+
 
 SecurityTube Playlists
 ======================
@@ -754,7 +752,10 @@ Challenges
 
 - [Reverse Engineering Challenges](https://challenges.re/)
 
-- [Matasano Crypto Challenges](http://cryptopals.com/)
+- [Pwnable.kr](http://pwnable.kr) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation.
+
+- [Matasano Crypto Challenges](http://cryptopals.com/) (a.k.a. Cryptopals) is a collection of exercises that demonstrate attacks on real-world crypto by letting you implement and break the cryptoschemes yourself.
+
 
 Documentation
 =============
