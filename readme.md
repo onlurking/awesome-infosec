@@ -363,6 +363,58 @@ Cybrary’s online COBIT certification program offers an opportunity to learn ab
 
 - [Corporate Cybersecurity Management](https://www.cybrary.it/course/corporate-cybersecurity-management)<br>
 Cyber risk, legal considerations and insurance are often overlooked by businesses and this sets them up for major financial devastation should an incident occur.
+## Microsoft Learn
+Microsoft certifications offer discounts for DoD employees. Enter your .mil email address on the second page of registration to receive the discount code at that address.
+Discounts may vary depending on the certification.
+
+https://learn.microsoft.com/en-us/certifications/
+
+## NYU Bridge Program
+Here's a program (free to vets) for those who want to pursue a technical Master's degree but don't have a technical undergrad: https://engineering.nyu.edu/academics/programs/bridge-program-nyu-tandon
+
+## Opinions on MSCS from Jim
+What you'll have to figure out, which can only really be achieved by getting on phone calls with all the various programs you're interested in for a MSCS, is finding out what prep/bridge programs are accepted by what MSCS programs. NYU bridge might not be accepted at GA Tech, but maybe Columbia takes it, etc.
+Ultimately, that confusing web is why I went with Northeastern. NU does the bridge, does the Master's, no 'conditional' MSCS acceptance pending the bridge + luck (just have to keep a min GPA), etc. etc. Considering NYU is a great school though, it was on my possibilities list if my wife and I were ready to move to NY (but we weren't), plan was NYU Bridge -> NYU MSCS (has a conditional acceptance setup though).
+Worth keeping an eye out, as it's still developing, is Columbia, UIUC, and I think GA Tech are forming a consortium with Northeastern to offer a similar bridge/master's curriculum
+
+## ASU Notes from Tom C
+
+Arizona State University (ASU) Computer Science 110, Principles of Programming, on 8/15/2023 [please thread]
+https://ea.asu.edu/courses/introduction-to-programming-cse-110/
+
+Enrollment remains open and the cost is only $25 to enroll and earn a grade
+If after you earn a grade you want college credits, you have the option but no obligation to pay $400 for official college credits
+This is a low-cost low-risk way to "try out" Computer Science and ASU
+This is a low-cost way to earn college credits that you might be able to use toward a degree at another school, and can help you conserve education benefits for use in other courses, see https://vetsec.slack.com/archives/CDXHM2KD2/p1690905453086799
+ASU CSE 110 is part of the ASU Comp Sci BS degree, which is offered both online and in person, see https://asuonline.asu.edu/online-degree-programs/undergraduate/bachelor-science-computer-science/
+U.S. military tuition assistance benefits fully cover ASU online tuition. See https://asuonline.asu.edu/military-scholarship/
+The ASU Comp Sci department is respected and a Top ~50 in the U.S. Comp Sci department
+Sources:
+54 of 226 in N. Amer., https://drafty.cs.brown.edu/csopenrankings/
+
+35 of ?, 2023 CodeSignal rank, https://codesignal.com/university-ranking-report-2023/
+
+At https://edurank.org/cs/,
+37 of   858 in the US
+39 of   927 in North America
+53 of 4392 in the World
+ASU offers a "4+1 year" Accelerated Comp SCI Bachelor's + Master's program, see https://scai.engineering.asu.edu/accelerated/
+ASU provides the option to earn two or more majors, and offers a wide range of fully online majors and degrees, including Computer Science and Data Science, see
+https://asuonline.asu.edu/online-degree-programs/undergraduate/
+https://asuonline.asu.edu/newsroom/online-learning-tips/is-double-major-hard/
+ASU Bachelor's degrees are offered as both a first Bachelor's degree and also as as second or more Bachelor's degree AKA "post-Bachelor's"
+Please feel free to ask questions in this thread.
+I completed ASU CSE 110 during the Fall 2020 semester and think it's a solid course.  
+
+ea.asu.edu
+Intro to Programming for Credit | ASU Universal Learner Courses
+Earn college credit with our Introduction to Programming class. No prior experience is needed for this instructor-led online computer programming class.
+
+Transferring to Arizona State University (ASU), and how to learn which college courses ASU accepts for credit, for a specfic degree or major at ASU: [please thread]
+Q. When a person is exploring the possibility of transferring to ASU, and they have completed college courses at other colleges, what specfic steps can they take to determine exactly which courses ASU will award credits for, and which ASU courses the transfer credits will count towards?
+A. We have a great resource for reviewing transfer courses: www.asu.edu/transfercredit
+
+
 
 ## Roppers Academy
 Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
