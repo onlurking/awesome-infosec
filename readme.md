@@ -537,6 +537,9 @@ This exercise is a set of the most common web vulnerabilities.
 - [Web for Pentester II](https://pentesterlab.com/exercises/web_for_pentester_II)<br>
 This exercise is a set of the most common web vulnerabilities.
 
+- [Pentest-Ground](https://pentest-ground.com/)<br>
+Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
+
 - [PHP Include And Post Exploitation](https://pentesterlab.com/exercises/php_include_and_post_exploitation)<br>
 This exercice describes the exploitation of a local file include with limited access. Once code execution is gained, you will see some post exploitation tricks.
 
