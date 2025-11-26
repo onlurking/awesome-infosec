@@ -637,6 +637,11 @@ SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQ
 - [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
 - [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
 
+## BugBazaar and iBugBazaar
+BugBazaar isn’t just another app – it’s your comprehensive mobile application intentionally designed to be vulnerable. With over 30+ vulnerabilities for Android and 20+ for iOS carefully woven into its fabric, BugBazaar is your one-stop shop for hands-on learning. It features more than ten modules, each meticulously crafted to emulate real-world scenarios and the vulnerabilities that surround them. 
+- [BugBazaar](https://github.com/payatu/BugBazaar)
+- [iBugBazaar](https://github.com/payatu/iBugBazaar)
+
 Capture the Flag
 ================
 
