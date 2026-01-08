@@ -60,6 +60,22 @@ Massive Online Open Courses
 
 - [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardwaresec)
 
+#### 华盛顿大学 - 网络安全介绍
+本课程为初学者介绍网络安全，非常适合对网络安全刚兴趣的相关人员进行入门了解。
+
+- [University of Washington - Introduction to CyberSecurity](https://www.edx.org/course/introduction-to-cybersecurity)
+
+#### 华盛顿大学 - 网络安全职业路径规划
+本课程介绍网络安全行业中的多个主要角色，让学生了解不同的职业道路。通过一个自我评估，让学生了解更适合自己的职业选择。
+
+- [University of Washington - Finding Your Cybersecurity Career Path](https://www.edx.org/course/finding-your-cybersecurity-career-path)
+
+#### 华盛顿大学 - 网络安全基础
+本课程适合初学者学习，包含网络安全基本概念介绍、CISO 观点分享，帮助开启网络安全职业道路
+
+- [University of Washington - Essentials of Cybersecurity](https://www.edx.org/professional-certificate/uwashingtonx-essentials-cybersecurity)
+
+
 Academic Courses
 ================
 
@@ -129,6 +145,12 @@ DNS 对于所有的互联网用户而言都是至关重要的，它会遇到很�
 
 - [暴力的 Python 与漏洞利用开发](https://samsclass.info/127/127_WWC_2014.shtml)<br>
 用简单的 Python 脚本来攻陷易受攻击的系统
+
+#### Eurecom - 移动安全 (MOBISEC)
+
+内容涵盖移动生态系统、移动操作系统的设计与架构、应用程序分析、逆向工程、恶意软件检测、漏洞评估、自动静态和动态分析以及漏洞利用和缓解技术。除了提供幻灯片，还提供多个实战内容。
+
+- [MOBISEC2018](https://mobisec.reyammer.io/)
 
 ## Open Security Training
 OpenSecurityTraining.info 致力于共享计算机安全类培训资料
@@ -322,8 +344,20 @@ Cybrary 的在线 COBIT 认证计划提供了一个学习 COBIT 5 框架所有�
 网络风险、法律考虑往往被企业所忽视，如果发生事故就会造成重大财务损失
 
 ## Hopper's Roppers 
-- [Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)<br>
-免费、自定义进度的课程，在计算机与网络方面介绍基本知识，本课程旨在培养没有先验知识的学生
+
+Hopper's Roppers 是一个致力于为初学者提供免费培训的社区，讲授相关知识、技能和信息。
+
+- [计算机基础](https://hoppersroppers.org/course.html)<br>
+为初学者介绍必备的基础知识与技能。
+
+- [CTF 基础](https://hoppersroppers.github.io/courseCTF.html)<br>
+介绍参加 CTF 比赛所需的基础知识与技能
+
+- [安全基础](https://hoppersroppers.github.io/courseSecurity.html)<br>
+介绍基础安全理论，更好地了解各种威胁
+
+- [实用技能训练营](https://hoppersroppers.github.io/bootcamp.html)<br>
+介绍 Linux 基础知识与 Python 脚本
 
 Laboratories
 ============
@@ -630,6 +664,11 @@ VulnHub 尽可能地覆盖那些存在漏洞、可破解、可利用的“东西
 
 - [shell-storm](http://shell-storm.org/repo/CTF)<br>
   The Jonathan Salwan's little corner.
+
+### CTF 课程
+
+- [Hopper's Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
+  介绍在 CTF 比赛中所需的各种基础知识，包括数字取证、密码学与网络等
 
 SecurityTube Playlists
 ======================
