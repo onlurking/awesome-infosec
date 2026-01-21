@@ -360,14 +360,18 @@ Cyber risk, legal considerations and insurance are often overlooked by businesse
 ## Roppers Academy
 Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
 
-- [Introduction to Computing Fundamentals](https://hoppersroppers.org/course.html)<br>
+- [Introduction to Computing Fundamentals](https://www.roppers.org/courses/fundamentals)<br>
 A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/). **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None 
 
-- [Introduction to Capture the Flags](https://hoppersroppers.github.io/courseCTF.html)<br>
+- [Introduction to Capture the Flags](https://www.roppers.org/courses/ctf)<br>
 Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/). **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
 
-- [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
+- [Introduction to Security](https://www.roppers.org/courses/security)<br>
 Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/). **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
+
+- [Practical Networking](https://www.roppers.org/courses/networking)<br>
+A hands-on, wildly practical introduction to networking and making packets dance. No wasted time, no memorizing, just learning the fundamentals.
+ **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** Linux, Scripting
 
 Laboratories
 ============
@@ -682,7 +686,7 @@ The Jonathan Salwan's little corner.
 
 ### CTF Courses
 
-- [Roppers CTF Course](https://hoppersroppers.github.io/courseCTF.html)<br>
+- [Roppers CTF Course](https://www.roppers.org/courses/ctf)<br>
 Free course designed to teach the fundamentals of Forensics, Cryptography, and Web-Exploitation required to be successful in Capture the Flag competitions. At the end of the course, students compete in the picoCTF event with guidance from instructors. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/).
 
 
