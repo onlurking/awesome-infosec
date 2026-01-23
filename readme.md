@@ -617,6 +617,11 @@ The Hackademic Challenges implement realistic scenarios with known vulnerabiliti
 
 - [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/)
 
+## NullSec Linux
+NullSec Linux is a security-focused distribution with 135+ pre-installed tools for penetration testing, digital forensics, cloud security auditing, and AI/ML adversarial research. Features 9 specialized editions and custom tools written in Rust, Go, Zig, and Python.
+
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux)
+
 ## Web Attack and Exploitation Distro (WAED)
 The Web Attack and Exploitation Distro (WAED) is a lightweight virtual machine based on Debian Distribution. WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pentesting tools that aid in finding web application vulnerabilities. The main motivation behind this project is to provide a practical environment to learn about web application's vulnerabilities without the hassle of dealing with complex configurations. Currently, there are around 18 vulnerable applications installed in WAED.
 
