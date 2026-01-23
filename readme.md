@@ -776,6 +776,8 @@ Related Awesome Lists
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)<br>
  A collection of awesome penetration testing resources, tools and other shiny things.
 
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux)<br>
+ A security-focused Linux distribution with penetration testing tools, forensics capabilities, and automotive hacking utilities.
 - [Awesome Appsec](https://github.com/paragonie/awesome-appsec)<br>
 A curated list of resources for learning about application security.
 
