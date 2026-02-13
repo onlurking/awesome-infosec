@@ -747,6 +747,11 @@ Challenges
 Documentation
 =============
 
+#### sase.cloud - SASE & SSE Knowledge Base
+Independent, vendor-neutral knowledge base covering Secure Access Service Edge (SASE) and Security Service Edge (SSE). Includes vendor reviews, component deep-dives (ZTNA, SWG, CASB, DLP, FWaaS, DEM), deployment guides, and practitioner blog posts.
+
+- [sase.cloud](https://sase.cloud)
+
 #### OWASP - Open Web Application Security Project
 The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks.
 
