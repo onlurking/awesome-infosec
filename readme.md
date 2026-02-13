@@ -770,6 +770,11 @@ This is a course in defensive security.
 
 - [Onion Link](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Documentation)
 
+#### sase.cloud - SASE & SSE Knowledge Base
+Vendor-neutral SASE & SSE knowledge base with architecture guides, vendor comparisons, and deployment playbooks for network and security engineers.
+
+- [sase.cloud](https://sase.cloud)
+
 Related Awesome Lists
 =====================
 
