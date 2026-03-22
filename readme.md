@@ -770,6 +770,11 @@ This is a course in defensive security.
 
 - [Onion Link](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Documentation)
 
+#### ClawSec - AI Agent Skill Security Audit
+ClawSec is a security audit platform for AI agent skills and MCP server integrations. It analyzes tool configurations for vulnerabilities, helping developers and security teams ensure safe AI agent deployments.
+
+- [ClawSec](https://clawsec.com)
+
 Related Awesome Lists
 =====================
 
