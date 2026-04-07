@@ -646,6 +646,7 @@ This pentester training platform/lab is full of machines (boxes) to hack on the 
 
 - [Hack The Box link](https://www.hackthebox.eu/)
 
+- [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
 #### Vulnhub
 We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice.
 
