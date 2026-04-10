@@ -672,6 +672,9 @@ Wiki-like CTF write-ups repository, maintained by the community. (2014)
 - [CTF write-ups 2013](https://github.com/ctfs/write-ups-2013)<br>
 Wiki-like CTF write-ups repository, maintained by the community. (2013)
 
+- [HTB Writeups](https://github.com/momenbasel/htb-writeups)<br>
+Comprehensive Hack The Box writeup collection covering 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and certification prep resources.
+
 ### CTF Repos
 
 - [captf](http://captf.com)<br>
