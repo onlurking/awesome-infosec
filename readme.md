@@ -369,6 +369,58 @@ Free course designed to teach the fundamentals required to be successful in Capt
 - [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
 Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/). **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
 
+## Practical DevSecOps
+
+#### Certified DevSecOps Professional (CDP)
+Hands-on DevSecOps certification covering secure SDLC, CI/CD pipeline security, SCA, SAST, DAST, and Security as Code. Build and automate security across modern development workflows. Exam: 5 challenges in 6 hours plus a 24-hour report submission.
+
+- [Certified DevSecOps Professional (CDP)](https://www.practical-devsecops.com/certified-devsecops-professional/)
+
+#### Certified DevSecOps Expert (CDE)
+Advanced DevSecOps certification covering OS hardening, infrastructure and code compliance, vulnerability management, and security automation. Builds directly on CDP-level skills for engineers who want to go deeper into enterprise-grade DevSecOps practices.
+
+- [Certified DevSecOps Expert (CDE)](https://www.practical-devsecops.com/certified-devsecops-expert/)
+
+#### Certified Container Security Expert (CCSE)
+Hands-on container security certification teaching you to build secure images, scan for vulnerabilities, and harden container environments. Covers tools like Trivy, Grype, Snyk, Dockle, Harbor, Cosign, and Seccomp across 40+ guided lab exercises.
+
+- [Certified Container Security Expert (CCSE)](https://www.practical-devsecops.com/certified-container-security-expert/)
+
+#### Certified AI Security Professional (CAISP)
+Hands-on AI security certification covering OWASP LLM Top 10, prompt injection, model attacks, AI supply chain risks, and MITRE ATLAS defenses. 70% lab-based. Exam: 5 challenges in 6 hours plus a 24-hour report submission.
+
+- [Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)
+
+#### Certified MCP Security Expert (CMCPSE)
+Hands-on MCP security certification covering tool poisoning, prompt injection, server hardening, OAuth 2.1, and agentic AI defenses. Learn to attack, assess, and secure MCP servers in real browser-based lab environments.
+
+- [Certified MCP Security Expert (CMCPSE)](https://www.practical-devsecops.com/certified-mcp-security-expert/)
+
+#### Certified Cloud-Native Security Expert (CCNSE)
+Hands-on Kubernetes and cloud-native security certification covering cluster hacking, authentication, authorization, admission controls, and data security. Learn to attack and defend real Kubernetes environments through browser-based labs.
+
+- [Certified Cloud-Native Security Expert (CCNSE)](https://www.practical-devsecops.com/certified-cloud-native-security-expert/)
+
+#### Certified Threat Modeling Professional (CTMP)
+Hands-on threat modeling certification covering STRIDE, PASTA, DREAD, MITRE ATT&CK, Agile, and Privacy methodologies. Learn to build data flow diagrams, identify threats, rate risks, and produce actionable threat models for real-world systems.
+
+- [Certified Threat Modeling Professional (CTMP)](https://www.practical-devsecops.com/certified-threat-modeling-professional/)
+
+#### Certified API Security Professional (CASP)
+Hands-on API security certification teaching you to find, exploit, and fix vulnerabilities in REST and other API types. Covers authentication flaws, injection attacks, broken access controls, and security testing tools used in real audits.
+
+- [Certified API Security Professional (CASP)](https://www.practical-devsecops.com/certified-api-security-professional/)
+
+#### Certified Software Supply Chain Security Expert (CSSE)
+Hands-on supply chain security certification covering attack vectors, dependency risks, SBOMs, provenance, SLSA, and SCVS frameworks. Learn to assess and reduce software supply chain risk across modern development and delivery pipelines.
+
+- [Certified Software Supply Chain Security Expert (CSSE)](https://www.practical-devsecops.com/certified-software-supply-chain-security-expert/)
+
+#### Certified Security Champion (CSC)
+Hands-on security certification for developers and engineers covering code vulnerability identification, CI/CD security tooling, and pipeline hardening. Builds the skills needed to act as a security advocate within development teams.
+
+- [Certified Security Champion (CSC)](https://www.practical-devsecops.com/certified-security-champion/)
+
 Laboratories
 ============
 
