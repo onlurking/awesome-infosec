@@ -46,6 +46,16 @@ This course focuses on how to design and build secure systems with a human-centr
 - [University of Maryland - Usable Security](https://www.coursera.org/learn/usablesec)
 
 #### University of Maryland - Software Security
+
+#### Offensive Security & AI Red Team Frameworks
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
+#### Offensive Security & AI Red Team Frameworks
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
 - [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
