@@ -89,14 +89,14 @@ Developed from the materials of NYU Tandon's old Penetration Testing and Vulnera
 #### Florida State University's - Offensive Computer Security
 The primary incentive for an attacker to exploit a vulnerability, or series of vulnerabilities is to achieve a return on an investment (his/her time usually). This return need not be strictly monetary, an attacker may be interested in obtaining access to data, identities, or some other commodity that is valuable to them.  The field of penetration testing involves authorized auditing and exploitation of systems to assess actual system security in order to protect against attackers.  This requires thorough knowledge of vulnerabilities and how to exploit them.  Thus, this course provides an introductory but comprehensive coverage of the fundamental methodologies, skills, legal issues, and tools used in white hat penetration testing and secure system administration.
 
- * [Offensive Computer Security - Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity)
- * [Offensive Computer Security - Spring 2013](http://www.cs.fsu.edu/~redwood/OffensiveSecurity)
+ * [Offensive Computer Security - Spring 2014](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity)
+ * [Offensive Computer Security - Spring 2013](https://www.cs.fsu.edu/~redwood/OffensiveSecurity)
 
 #### Florida State University's - Offensive Network Security
 This class allows students to look deep into know protocols (i.e. IP, TCP, UDP) to see how an attacker can utilize these protocols to their advantage and how to spot issues in a network via captured network traffic.
 The first half of this course focuses on know protocols while the second half of the class focuses on reverse engineering unknown protocols. This class will utilize captured traffic to allow students to reverse the protocol by using known techniques such as incorporating bioinformatics introduced by Marshall Beddoe. This class will also cover fuzzing protocols to see if the server or client have vulnerabilities. Overall, a student finishing this class will have a better understanding of the network layers, protocols, and network communication and their interaction in computer networks.
 
- * [Offensive Network Security](http://www.cs.fsu.edu/~lawrence/OffNetSec/)
+ * [Offensive Network Security](https://www.cs.fsu.edu/~lawrence/OffNetSec/)
 
 ####  Rensselaer Polytechnic Institute - Malware Analysis
 
@@ -112,7 +112,7 @@ This course will start off by covering basic x86 reverse engineering, vulnerabil
 ####  Rensselaer Polytechnic Institute - Hardware Reverse Engineering
 Reverse engineering techniques for semiconductor devices and their applications to competitive analysis, IP litigation, security testing, supply chain verification, and failure analysis. IC packaging technologies and sample preparation techniques for die recovery and live analysis. Deprocessing and staining methods for revealing features bellow top passivation. Memory technologies and appropriate extraction techniques for each. Study contemporary anti-tamper/anti-RE methods and their effectiveness at protecting designs from attackers. Programmable logic microarchitecture and the issues involved with reverse engineering programmable logic.
 
-- [CSCI 4974/6974 - Spring '14 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
+- [CSCI 4974/6974 - Spring '14 Hardware Reverse Engineering](https://security.cs.rpi.edu/courses/hwre-spring2014/)
 
 ####  City College of San Francisco - Sam Bowne Class
 
@@ -144,7 +144,7 @@ Mobile devices such as smartphones and tablets are now used for making purchases
 Techniques used by attackers to breach Web applications, and how to protect them. How to secure authentication, access, databases, and back-end components. How to protect users from each other. How to find common vulnerabilities in compiled code and source code.
 
 - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)<br>
-Training students for cybersecurity competitions, including CTF events and the [Collegiate Cyberdefense Competition (CCDC)](http://www.nationalccdc.org/). This training will prepare students for employment as security professionals, and if our team does well in the competitions, the competitors will gain recognition and respect which should lead to more and better job offers.
+Training students for cybersecurity competitions, including CTF events and the [Collegiate Cyberdefense Competition (CCDC)](https://www.nationalccdc.org/). This training will prepare students for employment as security professionals, and if our team does well in the competitions, the competitors will gain recognition and respect which should lead to more and better job offers.
 
 - [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)<br>
  In the exploit development section, students will take over vulnerable systems with simple Python scripts.
@@ -166,96 +166,96 @@ OpenSecurityTraining.info is dedicated to sharing training material for computer
 
 #### Beginner Classes
 
-- [Android Forensics & Security Testing](http://opensecuritytraining.info/AndroidForensics.html)<br>
+- [Android Forensics & Security Testing](https://opensecuritytraining.info/AndroidForensics.html)<br>
 This class serves as a foundation for mobile digital forensics, forensics of Android operating systems, and penetration testing of Android applications.
 
-- [Certified Information Systems Security Professional (CISSP)® <br>Common Body of Knowledge (CBK)® Review](http://opensecuritytraining.info/CISSP-Main.html)<br>
-The CISSP CBK Review course is uniquely designed for federal agency information assurance (IA) professionals in meeting [NSTISSI-4011](http://www.cnss.gov/Assets/pdf/nstissi_4011.pdf), National Training Standard for Information Systems Security Professionals, as required by [DoD 8570.01-M](http://www.dtic.mil/whs/directives/corres/pdf/857001m.pdf), Information Assurance Workforce Improvement Program.
+- [Certified Information Systems Security Professional (CISSP)® <br>Common Body of Knowledge (CBK)® Review](https://opensecuritytraining.info/CISSP-Main.html)<br>
+The CISSP CBK Review course is uniquely designed for federal agency information assurance (IA) professionals in meeting [NSTISSI-4011](https://www.cnss.gov/Assets/pdf/nstissi_4011.pdf), National Training Standard for Information Systems Security Professionals, as required by [DoD 8570.01-M](https://www.dtic.mil/whs/directives/corres/pdf/857001m.pdf), Information Assurance Workforce Improvement Program.
 
-- [Flow Analysis & Network Hunting](http://opensecuritytraining.info/Flow.html)<br>
+- [Flow Analysis & Network Hunting](https://opensecuritytraining.info/Flow.html)<br>
 This course focuses on network analysis and hunting of malicious activity from a security operations center perspective. We will dive into the netflow strengths, operational limitations of netflow, recommended sensor placement, netflow tools, visualization of network data, analytic trade craft for network situational awareness and networking hunting scenarios.
 
-- [Hacking Techniques and Intrusion Detection](http://opensecuritytraining.info/HTID.html)<br>
+- [Hacking Techniques and Intrusion Detection](https://opensecuritytraining.info/HTID.html)<br>
 The course is designed to help students gain a detailed insight into the practical and theoretical aspects of advanced topics in hacking techniques and intrusion detection.
 
-- [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)<br>
+- [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html)<br>
 This class serves as a foundation for the follow on Intermediate level x86 class. It teaches the basic concepts and describes the hardware that assembly code deals with. It also goes over many of the most common assembly instructions. Although x86 has hundreds of special purpose instructions, students will be shown it is possible to read most programs by knowing only around 20-30 instructions and their variations.
 
-- [Introductory Intel x86-64: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86-64.html)<br>
+- [Introductory Intel x86-64: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86-64.html)<br>
 This class serves as a foundation for the follow on Intermediate level x86 class. It teaches the basic concepts and describes the hardware that assembly code deals with. It also goes over many of the most common assembly instructions. Although x86 has hundreds of special purpose instructions, students will be shown it is possible to read most programs by knowing only around 20-30 instructions and their variations.
 
-- [Introduction to ARM](http://opensecuritytraining.info/IntroARM.html)<br>
+- [Introduction to ARM](https://opensecuritytraining.info/IntroARM.html)<br>
 This class builds on the Intro to x86 class and tries to provide parallels and differences between the two processor architectures wherever possible while focusing on the ARM instruction set, some of the ARM processor features, and how software works and runs on the ARM processor.
 
-- [Introduction to Cellular Security](http://opensecuritytraining.info/IntroCellSec.html)<br>
+- [Introduction to Cellular Security](https://opensecuritytraining.info/IntroCellSec.html)<br>
 This course is intended to demonstrate the core concepts of cellular network security. Although the course discusses GSM, UMTS, and LTE - it is heavily focused on LTE. The course first introduces important cellular concepts and then follows the evolution of GSM to LTE.
 
-- [Introduction to Network Forensics](http://opensecuritytraining.info/NetworkForensics.html)<br>
+- [Introduction to Network Forensics](https://opensecuritytraining.info/NetworkForensics.html)<br>
 This is a mainly lecture based class giving an introduction to common network monitoring and forensic techniques.
 
-- [Introduction to Secure Coding](http://opensecuritytraining.info/IntroSecureCoding.html)<br>
+- [Introduction to Secure Coding](https://opensecuritytraining.info/IntroSecureCoding.html)<br>
 This course provides a look at some of the most prevalent security related coding mistakes made in industry today.  Each type of issue is explained in depth including how a malicious user may attack the code, and strategies for avoiding the issues are then reviewed.
 
-- [Introduction to Vulnerability Assessment](http://opensecuritytraining.info/IntroductionToVulnerabilityAssessment.html)<br>
+- [Introduction to Vulnerability Assessment](https://opensecuritytraining.info/IntroductionToVulnerabilityAssessment.html)<br>
 This is a lecture and lab based class giving an introduction to vulnerability assessment of some common common computing technologies.  Instructor-led lab exercises are used to demonstrate specific tools and technologies.
 
-- [Introduction to Trusted Computing](http://opensecuritytraining.info/IntroToTrustedComputing.html)<br>
+- [Introduction to Trusted Computing](https://opensecuritytraining.info/IntroToTrustedComputing.html)<br>
 This course is an introduction to the fundamental technologies behind Trusted Computing. You will learn what Trusted Platform Modules (TPMs) are and what capabilities they can provide both at an in-depth technical level and in an enterprise context. You will also learn about how other technologies such as the Dynamic Root of Trust for Measurement (DRTM) and virtualization can both take advantage of TPMs and be used to enhance the TPM's capabilities.
 
-- [Offensive, Defensive, and Forensic Techniques for Determining Web User Identity](http://opensecuritytraining.info/WebIdentity.html)<br>
+- [Offensive, Defensive, and Forensic Techniques for Determining Web User Identity](https://opensecuritytraining.info/WebIdentity.html)<br>
 This course looks at web users from a few different perspectives.  First, we look at identifying techniques to determine web user identities from a server perspective.  Second, we will look at obfuscating techniques from a user whom seeks to be anonymous.  Finally, we look at forensic techniques, which, when given a hard drive or similar media, we identify users who accessed that server.
 
-- [Pcap Analysis & Network Hunting](http://opensecuritytraining.info/Pcap.html)<br>
+- [Pcap Analysis & Network Hunting](https://opensecuritytraining.info/Pcap.html)<br>
 Introduction to Packet Capture (PCAP) explains the fundamentals of how, where, and why to capture network traffic and what to do with it.  This class covers open-source tools like tcpdump, Wireshark, and ChopShop in several lab exercises that reinforce the material.  Some of the topics include capturing packets with tcpdump, mining DNS resolutions using only command-line tools, and busting obfuscated protocols.  This class will prepare students to tackle common problems and help them begin developing the skills to handle more advanced networking challenges.
 
-- [Malware Dynamic Analysis](http://opensecuritytraining.info/MalwareDynamicAnalysis.html)<br>
+- [Malware Dynamic Analysis](https://opensecuritytraining.info/MalwareDynamicAnalysis.html)<br>
 This introductory malware dynamic analysis class is dedicated to people who are starting to work on malware analysis or who want to know what kinds of artifacts left by malware can be detected via various tools. The class will be a hands-on class where students can use various tools to look for how malware is: Persisting, Communicating, and Hiding
 
-- [Secure Code Review](http://opensecuritytraining.info/SecureCodeReview.html)<br>
+- [Secure Code Review](https://opensecuritytraining.info/SecureCodeReview.html)<br>
 The course briefly talks about the development lifecycle and the importance of peer reviews in delivering a quality product. How to perform this review is discussed and how to keep secure coding a priority during the review is stressed. A variety of hands-on exercises will address common coding mistakes, what to focus on during a review, and how to manage limited time.
 
-- [Smart Cards](http://opensecuritytraining.info/SmartCards.html)<br>
+- [Smart Cards](https://opensecuritytraining.info/SmartCards.html)<br>
 This course shows how smart cards are different compared to other type of cards.
 It is explained how smart cards can be used to realize confidentiality and integrity of information.
 
-- [The Life of Binaries](http://opensecuritytraining.info/LifeOfBinaries.html)<br>
+- [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)<br>
 Along the way we discuss the relevance of security at different stages of a binary’s life, from the tricks that can be played by a malicious compiler, to how viruses really work, to the way which malware “packers” duplicate OS process execution functionality, to the benefit of a security-enhanced OS loader which implements address space layout randomization (ASLR).
 
-- [Understanding Cryptology: Core Concepts](http://opensecuritytraining.info/CryptoCore.html)<br>
+- [Understanding Cryptology: Core Concepts](https://opensecuritytraining.info/CryptoCore.html)<br>
 This is an introduction to cryptology with a focus on applied cryptology. It was designed to be accessible to a wide audience, and therefore does not include a rigorous mathematical foundation (this will be covered in later classes).
 
-- [Understanding Cryptology: Cryptanalysis](http://opensecuritytraining.info/Cryptanalysis.html)<br>
-A class for those who want to stop learning about building cryptographic systems and want to attack them. This course is a mixture of lecture designed to introduce students to a variety of code-breaking techniques and python labs to solidify those concepts. Unlike its sister class, [Core Concepts](http://opensecuritytraining.info/CryptoCore.html), math is necessary for this topic.
+- [Understanding Cryptology: Cryptanalysis](https://opensecuritytraining.info/Cryptanalysis.html)<br>
+A class for those who want to stop learning about building cryptographic systems and want to attack them. This course is a mixture of lecture designed to introduce students to a variety of code-breaking techniques and python labs to solidify those concepts. Unlike its sister class, [Core Concepts](https://opensecuritytraining.info/CryptoCore.html), math is necessary for this topic.
 
 #### Intermediate Classes
 
-- [Exploits 1: Introduction to Software Exploits](http://opensecuritytraining.info/Exploits1.html)<br>
+- [Exploits 1: Introduction to Software Exploits](https://opensecuritytraining.info/Exploits1.html)<br>
 Software vulnerabilities are flaws in program logic that can be leveraged by an attacker to execute arbitrary code on a target system. This class will cover both the identification of software vulnerabilities and the techniques attackers use to exploit them. In addition, current techniques that attempt to remediate the threat of software vulnerability exploitation will be discussed.
 
-- [Exploits 2: Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html)<br>
+- [Exploits 2: Exploitation in the Windows Environment](https://opensecuritytraining.info/Exploits2.html)<br>
 This course covers the exploitation of stack corruption vulnerabilities in the Windows environment. Stack overflows are programming flaws that often times allow an attacker to execute arbitrary code in the context of a vulnerable program. There are many nuances involved with exploiting these vulnerabilities in Windows. Window's exploit mitigations such as DEP, ASLR, SafeSEH, and SEHOP, makes leveraging these programming bugs more difficult, but not impossible. The course highlights the features and weaknesses of many the exploit mitigation techniques deployed in Windows operating systems. Also covered are labs that describe the process of finding bugs in Windows applications with mutation based fuzzing, and then developing exploits that target those bugs.
 
-- [Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntermediateX86.html)<br>
+- [Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntermediateX86.html)<br>
 Building upon the Introductory Intel x86 class, this class goes into more depth on topics already learned, and introduces more advanced topics that dive deeper into how Intel-based systems work.
 
 #### Advanced Classes
 
-- [Advanced x86: Virtualization with Intel VT-x](http://opensecuritytraining.info/AdvancedX86-VTX.html)<br>
+- [Advanced x86: Virtualization with Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)<br>
 The purpose of this course is to provide a hands on introduction to Intel hardware support for virtualization. The first part will motivate the challenges of virtualization in the absence of dedicated hardware. This is followed by a deep dive on the Intel virtualization "API" and labs to begin implementing a blue pill / hyperjacking attack made famous by researchers like Joanna Rutkowska and Dino Dai Zovi et al. Finally a discussion of virtualization detection techniques.
 
-- [Advanced x86: Introduction to BIOS & SMM](http://opensecuritytraining.info/IntroBIOS.html)<br>
+- [Advanced x86: Introduction to BIOS & SMM](https://opensecuritytraining.info/IntroBIOS.html)<br>
 We will cover why the BIOS is critical to the security of the platform. This course will also show you what capabilities and opportunities are provided to an attacker when BIOSes are not properly secured. We will also provide you tools for performing vulnerability analysis on firmware, as well as firmware forensics. This class will take people with existing reverse engineering skills and teach them to analyze UEFI firmware. This can be used either for vulnerability hunting, or to analyze suspected implants found in a BIOS, without having to rely on anyone else.
 
-- [Introduction to Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)<br>
+- [Introduction to Reverse Engineering Software](https://opensecuritytraining.info/IntroductionToReverseEngineering.html)<br>
 Throughout the history of invention curious minds have sought to understand the inner workings of their gadgets. Whether investigating a broken watch, or improving an engine, these people have broken down their goods into their elemental parts to understand how they work. This is Reverse Engineering (RE), and it is done every day from recreating outdated and incompatible software, understanding malicious code, or exploiting weaknesses in software.
 
-- [Reverse Engineering Malware](http://opensecuritytraining.info/ReverseEngineeringMalware.html)<br>
-This class picks up where the [Introduction to Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) course left off, exploring how static reverse engineering techniques can be used to understand what a piece of malware does and how it can be removed.
+- [Reverse Engineering Malware](https://opensecuritytraining.info/ReverseEngineeringMalware.html)<br>
+This class picks up where the [Introduction to Reverse Engineering Software](https://opensecuritytraining.info/IntroductionToReverseEngineering.html) course left off, exploring how static reverse engineering techniques can be used to understand what a piece of malware does and how it can be removed.
 
-- [Rootkits: What they are, and how to find them](http://opensecuritytraining.info/Rootkits.html)<br>
+- [Rootkits: What they are, and how to find them](https://opensecuritytraining.info/Rootkits.html)<br>
 Rootkits are a class of malware which are dedicated to hiding the attacker’s presence on a compromised system. This class will focus on understanding how rootkits work, and what tools can be used to help find them.
 
-- [The Adventures of a Keystroke: An in-depth look into keylogging on Windows](http://opensecuritytraining.info/Keylogging.html)<br>
+- [The Adventures of a Keystroke: An in-depth look into keylogging on Windows](https://opensecuritytraining.info/Keylogging.html)<br>
 Keyloggers are one of the most widely used components in malware. Keyboard and mouse are the devices nearly all of the PCs are controlled by, this makes them an important target of malware authors. If someone can record your keystrokes then he can control your whole PC without you noticing.
 
 
@@ -381,60 +381,60 @@ Laboratories
 ### Software Security Labs
 These labs cover some of the most common vulnerabilities in general software. The labs show students how attacks work in exploiting these vulnerabilities.
 
-- [Buffer-Overflow Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow)<br>
+- [Buffer-Overflow Vulnerability Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow)<br>
 Launching attack to exploit the buffer-overflow vulnerability using shellcode. Conducting experiments with several countermeasures.
 
-- [Return-to-libc Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc)<br>
+- [Return-to-libc Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc)<br>
 Using the return-to-libc technique to defeat the "non-executable stack" countermeasure of the buffer-overflow attack.
 
-- [Environment Variable and Set-UID Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID)<br>
+- [Environment Variable and Set-UID Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID)<br>
 This is a redesign of the Set-UID lab (see below).
 
 
-- [Set-UID Program Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Set-UID)<br>
+- [Set-UID Program Vulnerability Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Set-UID)<br>
 Launching attacks on privileged Set-UID root program. Risks of environment variables. Side effects of system().
 
-- [Race-Condition Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition)<br>
+- [Race-Condition Vulnerability Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition)<br>
 Exploiting the race condition vulnerability in privileged program. Conducting experiments with various countermeasures.
 
-- [Format-String Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Format_String)<br>
+- [Format-String Vulnerability Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Format_String)<br>
 Exploiting the format string vulnerability to crash a program, steal sensitive information, or modify critical data.
 
-- [Shellshock Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Shellshock)<br>
+- [Shellshock Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Shellshock)<br>
 Launch attack to exploit the Shellshock vulnerability that is discovered in late 2014.
 
 
 ### Network Security Labs
  These labs cover topics on network security, ranging from attacks on TCP/IP and DNS to various network security technologies (Firewall, VPN, and IPSec).
 
-- [TCP/IP Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP)<br>
+- [TCP/IP Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP)<br>
 Launching attacks to exploit the vulnerabilities of the TCP/IP protocol, including session hijacking, SYN flooding, TCP reset attacks, etc.
 
-- [Heartbleed Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed)<br>
+- [Heartbleed Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed)<br>
 Using the heartbleed attack to steal secrets from a remote server.
 
-- [Local DNS Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local)<br>
+- [Local DNS Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local)<br>
 Using several methods to conduct DNS pharming attacks on computers in a LAN environment.
 
-- [Remote DNS Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote)<br>
+- [Remote DNS Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote)<br>
 Using the Kaminsky method to launch DNS cache poisoning attacks on remote DNS servers.
 
-- [Packet Sniffing and Spoofing Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing)<br>
+- [Packet Sniffing and Spoofing Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing)<br>
 Writing programs to sniff packets sent over the local network; writing programs to spoof various types of packets.
 
-- [Linux Firewall Exploration Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Linux)<br>
+- [Linux Firewall Exploration Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Linux)<br>
 Writing a simple packet-filter firewall; playing with Linux's built-in firewall software and web-proxy firewall; experimenting with ways to evade firewalls.
 
-- [Firewall-VPN Lab: Bypassing Firewalls using VPN](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_VPN)<br>
+- [Firewall-VPN Lab: Bypassing Firewalls using VPN](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_VPN)<br>
 Implement a simple vpn program (client/server), and use it to bypass firewalls.
 
-- [Virtual Private Network (VPN) Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/VPN)<br>
+- [Virtual Private Network (VPN) Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/VPN)<br>
 Design and implement a transport-layer VPN system for Linux, using the TUN/TAP technologies. This project requires at least a month of time to finish, so it is good for final project.
 
-- [Minix IPSec Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/IPSec)<br>
+- [Minix IPSec Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/IPSec)<br>
 Implement the IPSec protocol in the Minix operating system and use it to set up Virtual Private Networks.
 
-- [Minix Firewall Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Minix)<br>
+- [Minix Firewall Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Minix)<br>
 Implementing a simple firewall in Minix operating system.
 
 
@@ -444,79 +444,79 @@ Implementing a simple firewall in Minix operating system.
 #### Elgg-Based Labs
 Elgg is an open-source social-network system. We have modified it for our labs.
 
-- [Cross-Site Scripting Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_XSS_Elgg)<br>
+- [Cross-Site Scripting Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_XSS_Elgg)<br>
 Launching the cross-site scripting attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [Cross-Site Request Forgery Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_CSRF_Elgg)<br>
+- [Cross-Site Request Forgery Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_CSRF_Elgg)<br>
 Launching the cross-site request forgery attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [Web Tracking Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_Tracking_Elgg)<br>
+- [Web Tracking Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_Tracking_Elgg)<br>
 Experimenting with the web tracking technology to see how users can be checked when they browse the web.
 
-- [SQL Injection Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_SQL_Injection)<br>
+- [SQL Injection Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_SQL_Injection)<br>
 Launching the SQL-injection attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
 #### Collabtive-Based Labs
 Collabtive is an open-source web-based project management system. We have modified it for our labs.
 
-- [Cross-site Scripting Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Web/XSS_Collabtive)<br>
+- [Cross-site Scripting Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Web/XSS_Collabtive)<br>
 Launching the cross-site scripting attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [Cross-site Request Forgery Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive)<br>
+- [Cross-site Request Forgery Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive)<br>
 Launching the cross-site request forgery attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [SQL Injection Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Web/SQL_Injection_Collabtive)<br>
+- [SQL Injection Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Web/SQL_Injection_Collabtive)<br>
 Launching the SQL-injection attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [Web Browser Access Control Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Web/Web_SOP_Collabtive)<br>
+- [Web Browser Access Control Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Web/Web_SOP_Collabtive)<br>
 Exploring browser's access control system to understand its security policies.
 
 #### PhpBB-Based Labs
 PhpBB is an open-source web-based message board system, allowing users to post messages. We have modified it for our labs.
 
-- [Cross-site Scripting Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_XSS)<br>
+- [Cross-site Scripting Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Attacks_XSS)<br>
 Launching the cross-site scripting attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [Cross-site Request Forgery Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_CSRF)<br>
+- [Cross-site Request Forgery Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Attacks_CSRF)<br>
 Launching the cross-site request forgery attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [SQL Injection Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_SQL_Injection)<br>
+- [SQL Injection Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Attacks_SQL_Injection)<br>
 Launching the SQL-injection attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-- [ClickJacking Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs/Vulnerability/ClickJacking)<br>
+- [ClickJacking Attack Lab](https://www.cis.syr.edu/~wedu/seed/Labs/Vulnerability/ClickJacking)<br>
 Launching the ClickJacking attack on a vulnerable web site. Conducting experiments with several countermeasures.
 
 ### System Security Labs
 These labs cover the security mechanisms in operating system, mostly focusing on access control mechanisms in Linux.
 
-- [Linux Capability Exploration Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/Capability_Exploration)<br>
+- [Linux Capability Exploration Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/Capability_Exploration)<br>
 Exploring the POSIX 1.e capability system in Linux to see how privileges can be divided into smaller pieces to ensure the compliance with the Least Privilege principle.
 
-- [Role-Based Access Control (RBAC) Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/RBAC_Cap)<br>
+- [Role-Based Access Control (RBAC) Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/RBAC_Cap)<br>
 Designing and implementing an integrated access control system for Minix that uses both capability-based and role-based access control mechanisms. Students need to modify the Minix kernel.
 
-- [Encrypted File System Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/EFS)<br>
+- [Encrypted File System Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/System/EFS)<br>
 Designing and implementing an encrypted file system for Minix. Students need to modify the Minix kernel.
 
 ### Cryptography Labs
 These labs cover three essential concepts in cryptography, including secrete-key encryption, one-way hash function, and public-key encryption and PKI.
 
-- [Secret Key Encryption Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Encryption)<br>
+- [Secret Key Encryption Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Encryption)<br>
 Exploring the secret-key encryption and its applications using OpenSSL.
 
-- [One-Way Hash Function Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Hash)<br>
+- [One-Way Hash Function Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Hash)<br>
 Exploring one-way hash function and its applications using OpenSSL.
 
-- [Public-Key Cryptography and PKI Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_PublicKey)<br>
+- [Public-Key Cryptography and PKI Lab](https://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_PublicKey)<br>
 Exploring public-key cryptography, digital signature, certificate, and PKI using OpenSSL.
 
 ### Mobile Security Labs
 These labs focus on the smartphone security, covering the most common vulnerabilities and attacks on mobile devices. An Android VM is provided for these labs.
 
-- [Android Repackaging Lab](http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Repackaging)<br>
+- [Android Repackaging Lab](https://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Repackaging)<br>
 Insert malicious code inside an existing Android app, and repackage it.
 
-- [Android Device Rooting Lab](http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Rooting)<br>
+- [Android Device Rooting Lab](https://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Rooting)<br>
 Develop an OTA (Over-The-Air) package from scratch to root an Android device.
 
 ## Pentester Lab
@@ -585,7 +585,7 @@ This exercise covers the exploitation of a Bash vulnerability through a CGI.
 ## Dr. Thorsten Schneider's Binary Auditing
 Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more inner file understanding than ever. Learn how to find and analyse software vulnerability. Dig inside Buffer Overflows and learn how exploits can be prevented. Start to analyse your first viruses and malware the safe way. Learn about simple tricks and how viruses look like using real life examples.
 
-- [Binary Auditing](http://www.binary-auditing.com/)
+- [Binary Auditing](https://www.binary-auditing.com/)
 
 ## Damn Vulnerable Web Application (DVWA)
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
@@ -600,7 +600,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 ##  NOWASP (Mutillidae)
 OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest. With dozens of vulns and hints to help the user; this is an easy-to-use web hacking environment designed for labs, security enthusiast, classrooms, CTF, and vulnerability assessment tool targets. Mutillidae has been used in graduate security courses, corporate web sec training courses, and as an "assess the assessor" target for vulnerability assessment software.
 
-- [OWASP Mutillidae](http://sourceforge.net/projects/mutillidae/files/)
+- [OWASP Mutillidae](https://sourceforge.net/projects/mutillidae/files/)
 
 ##  OWASP Broken Web Applications Project
 Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost and commercial VMware products.
@@ -610,7 +610,7 @@ Open Web Application Security Project (OWASP) Broken Web Applications Project, a
 ## OWASP Bricks
 Bricks is a web application security learning platform built on PHP and MySQL. The project focuses on variations of commonly seen application security issues. Each 'Brick' has some sort of security issue which can be leveraged manually or using automated software tools. The mission is to 'Break the Bricks' and thus learn the various aspects of web application security.
 
-- [OWASP Bricks](http://sechow.com/bricks/download.html)
+- [OWASP Bricks](https://sechow.com/bricks/download.html)
 
 ## OWASP Hackademic Challenges Project
 The Hackademic Challenges implement realistic scenarios with known vulnerabilities in a safe and controllable environment. Users can attempt to discover and exploit these vulnerabilities in order to learn important concepts of information security through an attacker's perspective.
@@ -620,7 +620,7 @@ The Hackademic Challenges implement realistic scenarios with known vulnerabiliti
 ## Web Attack and Exploitation Distro (WAED)
 The Web Attack and Exploitation Distro (WAED) is a lightweight virtual machine based on Debian Distribution. WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pentesting tools that aid in finding web application vulnerabilities. The main motivation behind this project is to provide a practical environment to learn about web application's vulnerabilities without the hassle of dealing with complex configurations. Currently, there are around 18 vulnerable applications installed in WAED.
 
-- [Web Attack and Exploitation Distro (WAED)](http://www.waed.info/)
+- [Web Attack and Exploitation Distro (WAED)](https://www.waed.info/)
 
 ## Xtreme Vulnerable Web Application (XVWA)
 XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security. It’s not advisable to host this application online as it is designed to be “Xtremely Vulnerable”. We recommend hosting this application in local/controlled environment and sharpening your application security ninja skills with any tools of your own choice. It’s totally legal to break or hack into this. The idea is to evangelize web application security to the community in possibly the easiest and fundamental way. Learn and acquire these skills for good purpose. How you use these skills and knowledge base is not our responsibility.
@@ -635,7 +635,7 @@ WebGoat is a deliberately insecure web application maintained by OWASP designed 
 ## Audi-1's SQLi-LABS
 SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQL injections and thereby helps professionals understand how to protect.
 - [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
-- [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
+- [SQLi-LABS Videos](https://www.securitytube.net/user/Audi)
 
 Capture the Flag
 ================
@@ -674,10 +674,10 @@ Wiki-like CTF write-ups repository, maintained by the community. (2013)
 
 ### CTF Repos
 
-- [captf](http://captf.com)<br>
+- [captf](https://captf.com)<br>
 This site is primarily the work of psifertex since he needed a dump site for a variety of CTF material and since many other public sites documenting the art and sport of Hacking Capture the Flag events have come and gone over the years.
 
-- [shell-storm](http://shell-storm.org/repo/CTF)<br>
+- [shell-storm](https://shell-storm.org/repo/CTF)<br>
 The Jonathan Salwan's little corner.
 
 ### CTF Courses
@@ -691,16 +691,16 @@ SecurityTube Playlists
 
 Security Tube hosts a large range of video tutorials on IT security including penetration testing , exploit development and reverse engineering.
 
-* [SecurityTube Metasploit Framework Expert (SMFE)](http://www.securitytube.net/groups?operation=view&groupId=10)<br>
+* [SecurityTube Metasploit Framework Expert (SMFE)](https://www.securitytube.net/groups?operation=view&groupId=10)<br>
 This video series covers basics of Metasploit Framework. We will look at why to use metasploit then go on to how to exploit vulnerbilities with help of metasploit and post exploitation techniques with meterpreter.
 
-* [Wireless LAN Security and Penetration Testing Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=9)<br>
+* [Wireless LAN Security and Penetration Testing Megaprimer](https://www.securitytube.net/groups?operation=view&groupId=9)<br>
 This video series will take you through a journey in wireless LAN (in)security and penetration testing. We will start from the very basics of how WLANs work, graduate to packet sniffing and injection attacks, move on to audit infrastructure vulnerabilities, learn to break into WLAN clients and finally look at advanced hybrid attacks involving wireless and applications.
 
-* [Exploit Research Megaprimer](http://www.securitytube.net/groups?operation=view&groupId=7)<br>
+* [Exploit Research Megaprimer](https://www.securitytube.net/groups?operation=view&groupId=7)<br>
 In this video series, we will learn how to program exploits for various vulnerabilities published online. We will also look at how to use various tools and techniques to find Zero Day vulnerabilities in both open and closed source software.
 
-* [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)<br>
+* [Buffer Overflow Exploitation Megaprimer for Linux](https://www.securitytube.net/groups?operation=view&groupId=4)<br>
 In this video series, we will understand the basic of buffer overflows and understand how to exploit them on linux based systems. In later videos, we will also look at how to apply the same principles to Windows and other selected operating systems.
 
 Open Security Books
@@ -725,7 +725,7 @@ The world has changed radically since the first edition of this book was publish
 #### Reverse Engineering for Beginners - Dennis Yurichev
 This book offers a primer on reverse-engineering, delving into disassembly code-level reverse engineering and explaining how to decipher assembly language for those beginners who would like to learn to understand x86 (which accounts for almost all executable software in the world) and ARM code created by C/C++ compilers.
 
-- [Reverse Engineering for Beginners](http://beginners.re/)
+- [Reverse Engineering for Beginners](https://beginners.re/)
 - [LaTeX Source](https://github.com/dennis714/RE-for-beginners)
 
 #### CTF Field Guide - Trail of Bits
@@ -739,9 +739,9 @@ Challenges
 
 - [Reverse Engineering Challenges](https://challenges.re/)
 
-- [Pwnable.kr](http://pwnable.kr) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation.
+- [Pwnable.kr](https://pwnable.kr) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation.
 
-- [Matasano Crypto Challenges](http://cryptopals.com/) (a.k.a. Cryptopals) is a collection of exercises that demonstrate attacks on real-world crypto by letting you implement and break the cryptoschemes yourself.
+- [Matasano Crypto Challenges](https://cryptopals.com/) (a.k.a. Cryptopals) is a collection of exercises that demonstrate attacks on real-world crypto by letting you implement and break the cryptoschemes yourself.
 
 
 Documentation
@@ -761,14 +761,14 @@ This guide arose out of the need for system administrators to have an updated, s
 #### PTES - Penetration Testing Execution Standard
 The penetration testing execution standard cover everything related to a penetration test - from the initial communication and reasoning behind a pentest, through the intelligence gathering and threat modeling phases where testers are working behind the scenes in order to get a better understanding of the tested organization, through vulnerability research, exploitation and post exploitation, where the technical security expertise of the testers come to play and combine with the business understanding of the engagement, and finally to the reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it.
 
-- [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
+- [Penetration Testing Execution Standard](https://www.pentest-standard.org/index.php/Main_Page)
 
 #### Whonix Documentation
 This is a course in defensive security.  
 
 - [Whonix Documentation](https://www.whonix.org/wiki/Documentation) 
 
-- [Onion Link](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Documentation)
+- [Onion Link](https://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Documentation)
 
 Related Awesome Lists
 =====================
@@ -832,6 +832,6 @@ Pull requests and issues with suggestions are welcome!
 License
 =======
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
