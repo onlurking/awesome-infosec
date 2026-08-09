@@ -637,6 +637,12 @@ SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQ
 - [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
 - [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
 
+## LabEx Cybersecurity Free Labs
+
+LabEx provides free, hands-on cybersecurity labs covering network security, threat detection, cryptography, and ethical hacking in an interactive environment.
+
+- [LabEx Cybersecurity Free Labs](https://labex.io/free-labs/cybersecurity)
+
 Capture the Flag
 ================
 
