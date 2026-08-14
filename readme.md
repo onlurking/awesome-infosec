@@ -822,6 +822,7 @@ A curated list of awesome Security talks.
 A curated list of awesome YARA rules, tools, and people.
 
 - [Sec Lists](https://github.com/danielmiessler/SecLists)<br>
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
 [Contributing](https://github.com/onlurking/awesome-infosec/blob/master/contributing.md)
