@@ -379,6 +379,12 @@ Free course designed to teach the fundamentals required to be successful in Capt
 - [Introduction to Security](https://hoppersroppers.github.io/courseSecurity.html)<br>
 Free course designed to teach students security theory and have them execute defensive measures so that they are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/). **Learning Objectives:** Security Theory, Practical Application, Real-World Examples **Pre-Reqs:** None
 
+## TheXero Training Academy - Online Practical Offensive Security Training
+
+- [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
+This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
+
+
 Laboratories
 ============
 
