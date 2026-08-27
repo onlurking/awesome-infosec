@@ -58,6 +58,7 @@ This course focuses on how to design and build secure systems with a human-centr
 
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
 
 #### University of Maryland - Cryptography
