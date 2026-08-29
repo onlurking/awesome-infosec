@@ -25,6 +25,9 @@ Table of Contents
 Massive Online Open Courses
 ===========================
 
+#### RansomLeak Security Training
+- [RansomLeak Security Training](https://ransomleak.com) - 100+ interactive hands-on exercises covering security awareness, application security, API security, cloud security, and real-world incidents. Free for individuals, enterprise options available.
+
 #### Stanford University - Computer Security
 In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
 
