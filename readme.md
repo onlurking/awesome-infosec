@@ -673,6 +673,12 @@ When something is added to VulnHub's database it will be indexed as best as poss
 
 - [Vulnhub Repository](https://www.vulnhub.com/)
 
+#### RansomLeak
+
+Interactive browser-based training platform with hands-on labs covering Application Security, API Security, Cloud Security, Git Security, and AI Security based on OWASP frameworks.
+
+- [RansomLeak Training Platform](https://ransomleak.com/catalogue/application-security/)
+
 #### CTF Write Ups
 - [CTF Resources](https://ctfs.github.io/resources)<br>
   A general collection of information, tools, and tips regarding CTFs and similar security competitions.
