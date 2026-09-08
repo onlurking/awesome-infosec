@@ -46,8 +46,19 @@ This course focuses on how to design and build secure systems with a human-centr
 - [University of Maryland - Usable Security](https://www.coursera.org/learn/usablesec)
 
 #### University of Maryland - Software Security
+
+#### Offensive Security & AI Red Team Frameworks
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
+#### Offensive Security & AI Red Team Frameworks
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
 
 #### University of Maryland - Cryptography
@@ -420,6 +431,11 @@ Hands-on supply chain security certification covering attack vectors, dependency
 Hands-on security certification for developers and engineers covering code vulnerability identification, CI/CD security tooling, and pipeline hardening. Builds the skills needed to act as a security advocate within development teams.
 
 - [Certified Security Champion (CSC)](https://www.practical-devsecops.com/certified-security-champion/)
+## TheXero Training Academy - Online Practical Offensive Security Training
+
+- [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
+This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
+
 
 Laboratories
 ============
