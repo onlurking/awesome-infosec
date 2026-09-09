@@ -841,6 +841,12 @@ A curated list of awesome YARA rules, tools, and people.
 - [Sec Lists](https://github.com/danielmiessler/SecLists)<br>
 SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
+- [Awesome SOC 2](https://github.com/TrazTech-Inc/awesome-soc2)<br>
+Curated list of SOC 2 audit resources, tools, and platforms.
+
+- [Awesome Compliance Automation](https://github.com/TrazTech-Inc/awesome-compliance-automation)<br>
+Curated list of compliance automation tools across SOC 2, ISO 27001, HIPAA, PCI DSS, and more.
+
 [Contributing](https://github.com/onlurking/awesome-infosec/blob/master/contributing.md)
 =====================
 
