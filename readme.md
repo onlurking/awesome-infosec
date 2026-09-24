@@ -385,6 +385,11 @@ Free course designed to teach students security theory and have them execute def
 - [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
 This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
 
+## SecPlus Mastery - Free CompTIA Security+ Study Tools
+
+- [Free Security+ Study Tools (SY0-701)](https://secplusmastery.com/free)<br>
+250 original practice questions for the Security+ SY0-701 exam, and every answer comes with an explanation. There is also a 30-question test weighted like the real exam and a graded PBQ where you configure firewall rules. The cheat sheets for ports, attacks and crypto each end in a short drill. None of this needs an account. The site sells a full course as well, but everything on this page is free.
+
 
 Laboratories
 ============
