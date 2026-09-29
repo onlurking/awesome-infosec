@@ -663,6 +663,12 @@ This pentester training platform/lab is full of machines (boxes) to hack on the 
 
 - [Hack The Box link](https://www.hackthebox.eu/)
 
+#### OOPS!
+
+Hands-on offensive-security labs platform with real vulnerable applications, real terminals, and real exploitation - no scripted answers or multiple-choice quizzes. 25+ published labs spanning web, network, and binary exploitation, each backed by an actual disposable container environment rather than a video walkthrough.
+
+- [OOPS! link](https://oops.codes/)
+
 #### Vulnhub
 We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice.
 
