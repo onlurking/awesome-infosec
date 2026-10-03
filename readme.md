@@ -673,6 +673,12 @@ When something is added to VulnHub's database it will be indexed as best as poss
 
 - [Vulnhub Repository](https://www.vulnhub.com/)
 
+#### OOPS!
+
+Hands-on offensive-security labs platform with real vulnerable apps, real terminals, and real exploitation in per-session isolated cloud sandboxes -- no scripted answers, no fixed walkthrough path. Free tier available.
+
+- [OOPS! link](https://oops.codes/)
+
 #### CTF Write Ups
 - [CTF Resources](https://ctfs.github.io/resources)<br>
   A general collection of information, tools, and tips regarding CTFs and similar security competitions.
