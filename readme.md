@@ -385,6 +385,11 @@ Free course designed to teach students security theory and have them execute def
 - [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
 This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
 
+## OnlySecurity
+
+- [Learning Paths](https://onlysecurity.com/learning-paths/)<br>
+Seven free learning paths: lock picking with SPARROWS, Proxmark RFID, Hak5 Wi-Fi and USB implant tools, and Electronic Cats IoT hardware. Free account needed.
+
 
 Laboratories
 ============
