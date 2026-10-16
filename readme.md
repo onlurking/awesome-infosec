@@ -665,7 +665,7 @@ This pentester training platform/lab is full of machines (boxes) to hack on the 
 
 #### OOPS!
 
-Hands-on offensive-security labs platform with real vulnerable applications, real terminals, and real exploitation - no scripted answers or multiple-choice quizzes. 25+ published labs spanning web, network, and binary exploitation, each backed by an actual disposable container environment rather than a video walkthrough.
+Hands-on offensive-security labs platform: each lab is a real vulnerable application in its own disposable container with a browser terminal, no scripted answers or multiple-choice quizzes. 64 labs, mostly web security plus network, crypto, binary exploitation, reverse engineering and forensics; 14 are free, the rest need a subscription.
 
 - [OOPS! link](https://oops.codes/)
 
