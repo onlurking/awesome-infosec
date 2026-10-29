@@ -654,6 +654,21 @@ SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQ
 - [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
 - [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
 
+## cybersecurity101.net Security Labs
+Free, step-by-step defensive labs that run on the learner's own virtual machines, with no account and no hosted platform. Each lab has setup, tasks, expected output, a validation step and cleanup. Content is CC BY-SA 4.0.
+
+- [Linux Security Labs](https://cybersecurity101.net/labs/linux-security/)<br>
+94 labs on an Ubuntu Server VM: users and permissions, SSH, firewall, logging, file integrity, then Kali Linux as a controlled validation workstation.
+
+- [Windows Security Labs](https://cybersecurity101.net/labs/windows-security/)<br>
+62 labs on a Windows 11 VM with PowerShell and built-in tools: accounts, Defender, application control, audit policy and Sysmon, BitLocker, backup and incident triage.
+
+- [Active Directory Security Labs](https://cybersecurity101.net/labs/active-directory-security/)<br>
+54 labs on your own Windows Server and client VMs: build a lab domain, then users and groups, Kerberos, Group Policy, auditing and delegation, defensive-only throughout.
+
+- [Security Monitoring Labs](https://cybersecurity101.net/labs/security-monitoring/)<br>
+49 labs that stand up a Wazuh stack, connect Linux and Windows VMs as log sources, then write, test and tune detection rules and triage alerts.
+
 Capture the Flag
 ================
 
