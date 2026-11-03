@@ -385,6 +385,17 @@ Free course designed to teach students security theory and have them execute def
 - [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
 This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
 
+## pwn.guide - Hands-on Ethical Hacking Tutorials
+
+- [Free Tutorials](https://pwn.guide/tutorials)<br>
+About 60 free, step-by-step tutorials on web, wireless and hardware hacking, forensics, defense and recent CVEs. Paid plans unlock the advanced tutorials.
+
+- [CompTIA Security+ (SY0-701)](https://pwn.guide/certs/sy0-701)<br>
+Exam-aligned course with video and written lessons, practice questions and cheat sheets, covering threats, vulnerabilities, architecture, operations and governance. Paid.
+
+- [CompTIA PenTest+ (PT0-003)](https://pwn.guide/certs/pt0-003)<br>
+Exam-aligned course on planning, scoping, attacks, exploits and reporting, with labs, methodology and report templates. Paid.
+
 
 Laboratories
 ============
