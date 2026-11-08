@@ -386,6 +386,14 @@ Free course designed to teach students security theory and have them execute def
 This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
 
 
+## HackTheKnowledge - Hands-on Cybersecurity Training in English and Spanish
+
+- [Free SOC Analyst Course](https://hacktheknowledge.com/all-courses/free-soc-analyst-course)<br>
+Free, self-paced course on the SOC analyst role: alert triage, log analysis and incident documentation, practised in browser-based simulators that grade your verdict. Available in English and Spanish. **Learning Objectives:** Alert triage, Log analysis, Incident tickets **Pre-Reqs:** None
+
+- [Free Introduction to Cybersecurity](https://hacktheknowledge.com/all-courses/free-cybersecurity-course)<br>
+Free, self-paced introduction to core security concepts with short practical exercises after each lesson. Available in English and Spanish. **Learning Objectives:** Security fundamentals, Threats and attacks, Defensive basics **Pre-Reqs:** None
+
 Laboratories
 ============
 
