@@ -383,7 +383,10 @@ Free course designed to teach students security theory and have them execute def
 ## TheXero Training Academy - Online Practical Offensive Security Training
 
 - [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
-This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
+This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world.
+
+- [Wireless Operator](https://wirelessoperator.io/)<br>
+A hands-on wireless penetration testing mentorship programme that goes from 802.11 frame analysis to advanced wireless tradecraft: WPA2 and WPA3, enterprise Wi-Fi (EAP-TLS and PEAP), rogue access points, wireless pivots and fuzzing. A simulated Wi-Fi lab, fuzzing templates and live bi-weekly coaching give students practical skills they can use on real engagements.
 
 
 Laboratories
