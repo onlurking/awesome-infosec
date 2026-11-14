@@ -385,6 +385,18 @@ Free course designed to teach students security theory and have them execute def
 - [WiFi Pro](https://training.thexero.co.uk/wifi-pro)<br>
 This course covers the very foundations of how WiFi works, through to practical exercises to demonstrate the skills needed to succeed as a professional penetration tester. From personal WPA and WPA2 to secure and insecure Enterprtise WPA, and the latest WPA3. The included lab environment allows students to have hands-on practical skills they can use in the real world. 
 
+## CertSprint - Certification Practice Questions
+Scenario-based practice questions and performance-based questions (PBQs) for CompTIA A+, Network+, Security+, CySA+, Microsoft SC-200 and BTL1. Every answer has an explanation and results are scored by exam domain. Each certification has a free set of 20 questions that needs no account; full access is paid.
+
+- [Security+ (SY0-701) Practice Test](https://getcertsprint.com/certifications/security-plus/practice-test)<br>
+Free set of 20 scenario questions with explanations, scored by Security+ exam domain.
+
+- [CySA+ (CS0-004) Practice Test](https://getcertsprint.com/certifications/cysa-plus/practice-test)<br>
+Free set of 20 analyst scenarios with explanations, scored by CySA+ exam domain.
+
+- [SC-200 Practice Test](https://getcertsprint.com/certifications/sc-200/practice-test)<br>
+Free set of 20 security operations scenarios with explanations, scored by SC-200 exam domain.
+
 
 Laboratories
 ============
