@@ -663,6 +663,12 @@ This pentester training platform/lab is full of machines (boxes) to hack on the 
 
 - [Hack The Box link](https://www.hackthebox.eu/)
 
+#### WebVerse Labs
+
+WebVerse Labs is a web application hacking platform dedicated entirely to web. It hosts single-vulnerability challenges from simple to complex, multi-service labs that chain exploits across a realistic stack, and large multi-site ranges, spanning beginner to advanced difficulty.
+
+- [WebVerse Labs](https://webverselabs-pro.com)
+
 #### Vulnhub
 We all learn in different ways: in a group, by yourself, reading books, watching/listening to other people, making notes or things out for yourself. Learning the basics & understanding them is essential; this knowledge can be enforced by then putting it into practice.
 
